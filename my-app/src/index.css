@@ -1,0 +1,87 @@
+@import-normalize; /* bring in normalize.css styles */
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  background: -webkit-linear-gradient(45deg, #49a09d, #5f2c82);
+  background: linear-gradient(45deg, #49a09d, #5f2c82);
+  font-family: sans-serif;
+  font-weight: 100;
+}
+
+ul {
+  list-style: none;
+  font-style: normal;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+.container {
+  /* max-width: 950px; */
+  display: flex;
+  width: 100%;
+  margin: 0 auto;
+}
+table {
+  max-width: 800px;
+  width: 100%;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+th,
+td {
+  padding: 5px;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #fff;
+  /* white-space: nowrap; */
+}
+
+.order-column {
+  width: 35px; /* Укажите здесь желаемую ширину */
+}
+
+th {
+  text-align: left;
+}
+thead th {
+  background-color: #55608f;
+}
+tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+tbody td {
+  position: relative;
+}
+tbody td:hover:before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -9999px;
+  bottom: -9999px;
+  background-color: rgba(255, 255, 255, 0.2);
+  z-index: -1;
+}
+
+.order-form-wrapper {
+  margin-left: 25px;
+}
+
+.order-fix {
+  position: fixed;
+  max-height: calc(
+    100vh - 100px
+  ); /* Высота окна минус некоторое значение для отступов */
+  overflow-y: auto; /* Включить прокрутку по вертикали, если контент выходит за пределы высоты */
+  padding-right: 10px; /* Добавить немного отступа справа, чтобы полоса прокрутки не прилипала к контенту */
+}
+
+.order-input {
+  width: 50px;
+}
