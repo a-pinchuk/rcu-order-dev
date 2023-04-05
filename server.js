@@ -11,7 +11,7 @@ app.use(cors());
 app.use(express.json());
 
 app.get('/api/products', async (req, res) => {
-  const products = await parseCSV('products.csv');
+  const products = await parseCSV('public/products.csv');
   res.json(products);
 });
 
