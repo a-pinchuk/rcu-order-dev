@@ -1,0 +1,1290 @@
+﻿;001 AIWA;;
+ 0101; Aiwa RC-AVT02  (TV)  ! Huayu !;0,80;Є
+ 0103; Aiwa RC-6VT05, RC-6VT06  (TV)   ! Huayu !;0,85;Є
+ 0109; Aiwa RC-TC141KE  (TV);0,90;НЕМАЄ
+ 0114; Aiwa RC-TV2  (TV)  Huayu  ! Huayu !;0,85;Є
+ 0131; Aiwa RM-053N ! Huayu ! Унив., (TV) кор. RC-ZVT03;0,95;Є
+ 0132; Aiwa JH32DS700S/JH32BT700S/ JH39DS700S/JH39BT700S/JU50DS700S, Satelit (=3718);1,60;Є
+ 0134; Aiwa JH32D3700S, Bravis, Grunhelm  (40BF) (=34102);0,00;НЕМАЄ
+;002 AKAI, BRAVIS-1, LIBERTY, SATURN-1;;
+ 0201; Saturn, West GK21A1-C12/ GK21A1-C14, Grol GR-1402/ 2102, Akira ACH-T-1 (TV)  Huayu  ! Huayu !;1,20;Є
+ 0202; Sitronics ABL-105/ ABL-705/ STV-1402, Konka 52H8, CHINA XU-5251C-N (TV);0,80;Є
+ 0203; Akai RC-51A  (TV)  Huayu  ! Huayu !;1,00;Є
+ 0205; Akai 4GA1-901, Grol  (TV)  Huayu  ! Huayu !;0,85;Є
+ 0206; Akai RC-N1A / RC-N2A (TV+VCR)  Huayu  ! Huayu !;1,45;Є
+ 0213; TCL RC-W001, Hyundai, Horizont, Sitronics, Evgo  (TV);1,35;НЕМАЄ
+ 0222; Bravis LED-3299, Rainford LED-2499, Liberti, Akai LTA-15A15M  (LED TV) ! Huayu !;1,45;Є
+ 0224; Bravis EP-21, Electron, Liberton, Saturn, Changhong GHK-4421A (TV);1,60;Є
+ 0227; Saturn LCD-267, LCD-326, Honda, Akai CX-507, Hyundai H-LED19V13 (LED TV) ! HQ !;1,84;Є
+ 0234; Liberty LD-5516, 3220, 3920, 4320/ SETUP /Akira RS41-DCG / Orion/ Supra/ Mystery (замена 3715);1,30;Є
+ 0236; Liberty 2200-EDROLIBE, Akai 2200-EDRW, Samsung CHINA LCD  ! Huayu !;1,62;Є
+ 0242; Akai UA32DM1100S Huayu  !Huayu !;1,95;НЕМАЄ
+;003 DAEWOO;;
+ 0301; Daewoo R-18H43  (TV)  Huayu  ! Huayu !;1,00;Є
+ 0301x; Daewoo R-18H43  (TV);0,75;Є
+ 0304; Daewoo R-18A07, DTA1414, Supra 5170, AMKOL  (TV) (=0301) P;1,30;Є
+ 0306; Daewoo R-22  (TV);1,40;МАЛО
+ 0307; Daewoo R-44C07  (TV)   ! Huayu !;1,00;Є
+ 0308; Daewoo R-25  (TV);1,35;Є
+ 0312; Daewoo R-28B03  (TV)  Huayu  ! Huayu !;1,00;Є
+ 0312x; Daewoo R-28B03  (TV);0,77;Є
+ 0313; Daewoo R-28B04  (TV) (=0312);1,10;Є
+ 0315; Daewoo R-48A01 (R-48A08, R-40A15) white  (TV)  (=0337, 0319);1,05;НЕМАЄ
+ 0319; Daewoo R-40A01/ R-40A06/ R-40A15/ R-48A01/ R-48A02/ R-48A08/R-40A15 (TV)  (=0323, 0337);1,25;Є
+ 0320; Daewoo R-40B02 /R-40B07 (TV)  Huayu  ! Huayu !;1,10;Є
+ 0323; Daewoo R-40A10/ R-48A02  (TV)  Huayu  ! Huayu !;1,00;Є
+ 0325; Daewoo ABL-30, Start Provision, Akira, Радуга  (TV)  Huayu  ! Huayu !;0,90;Є
+ 0325x; Daewoo ABL-30, Start Provision, Akira, Радуга  (TV);0,75;Є
+ 0327; Daewoo R-49C05/ R-49C07/ R-49C10 (LCD TV) (=0339);0,90;Є
+ 0332; Daewoo HYDFSR-0048UOCD KR21N7M  (TV);1,20;Є
+ 0337; Daewoo RM-531D ! Huayu ! Унив., кор. R40A01;1,10;НЕМАЄ
+ 0339; Daewoo RM-675DC ! Huayu ! Унив., кор. R-49С10;1,25;МАЛО
+ 0348; Daewoo RM-827DC ! Huayu ! Унив., кор. R-55G10;1,30;Є
+ 0358; Daewoo RM-L1553 ! Huayu ! Унив. (PBOX), кор.;1,85;Є
+;004 FUNAI;;
+ 0402; Funai MK-2  (TV);1,15;МАЛО
+ 0403; Funai MK7/8  (TV)  Huayu  ! HQ ! (=0409);1,05;Є
+ 0405; Funai MK7/8  (TV+VCR)  Huayu  ! Huayu !  (=0409/0415);0,62;Є
+ 0409; Funai 2100 MK10 ТХТ  (TV);0,60;Є
+ 0411; Funai 2100A MK11  (TV);0,70;Є
+ 0412; Funai 2100A MK12  (TV) P;1,20;Є
+;006 GRUNDIG;;
+ 0602; Grundig TP-623  (TV);0,45;Є
+ 0603; Grundig TP-711  (TV)  Huayu  ! Huayu !;1,10;Є
+ 0604; Grundig TP-720 / TP-725  (TV)  Huayu  ! Huayu !;1,30;Є
+ 0607; Grundig TP-760 (TP-720, TP-725) (=0604)  (TV);1,40;Є
+ 0607x; Grundig TP-760 (TP-720, TP-725) (TV) (=0604) P;1,35;МАЛО
+ 0618; Grundig TP-741  (TV)  Huayu  ! Huayu !;1,05;Є
+ 0621; Grundig TP-750, TP-751, TP-715   (TV)  Huayu  ! Huayu ! (=0630);1,10;Є
+ 0625; Grundig TP-160C  (TV) (=0631) PNB;1,65;Є
+ 0627; Grundig Lenaro 15-5710/ 19-711, Beko 19LWC60B  (LCD TV)  Huayu  ! Huayu !;1,10;Є
+ 0629; Grundig TP7 RC3214803 TP6187R-P1 (RM-L1383 )(TP6, TP9, TP3) (=3089) ! Huayu !;1,70;Є
+ 3089; Grundig RM-L1383  ! Huayu ! Унив., (LED TV) корп.TP7;1,62;Є
+;007 HITACHI;;
+ 0701; Hitachi CLE-865A  (TV)  Huayu  ! Huayu !;0,65;Є
+ 0712; Hitachi CLE-937  (TV);1,00;Є
+ 0715; Hitachi CLE-947  (TV);1,25;Є
+ 0730; Hitachi RM-791B ! Huayu ! Унив., кор. CLE-964;0,90;Є
+ 0732; Hitachi 32HDT01 CA48105  (LED) Huayu ! Huayu !;2,15;НЕМАЄ
+;008 JVC;;
+ 0804; JVC RM-C364 GY, JVC RM-C360 (TV) белый  Huayu  ! Huayu !;1,30;Є
+ 0806; JVC RM-C438  (TV);0,65;МАЛО
+ 0807; JVC RM-C457  (TV)  Huayu  ! Huayu !  (=0809);0,50;Є
+ 0808; JVC RM-C462  (TV)  Huayu  ! Huayu !  (=0809);1,00;Є
+ 0809; JVC RM-C463  (TV)  (=0808);0,50;МАЛО
+ 0810; JVC RM-C470  (TV);1,20;НЕМАЄ
+ 0811; JVC RM-C530  (TV)  Huayu  ! Huayu !;1,00;Є
+ 0814; JVC RM-C1280  (TV) =0843;1,30;Є
+ 0816; JVC RM-C565  (TV)  Huayu  ! Huayu !;0,85;Є
+ 0819; JVC RM-C498  (TV)  Huayu  ! Huayu !;0,60;Є
+ 0821; JVC RM-C220 (-223,-232,-236)  (TV)  Huayu  ! Huayu !;1,10;Є
+ 0826; JVC RM-C1261  (TV)  ! Huayu !;1,24;Є
+ 0839; JVC RM-C1309  (TV)  (=0854) ! Huayu !;1,00;Є
+ 0843; JVC RM-C1281/RM-C1280  (TV)  Huayu  ! HQ !  (=0854);1,05;Є
+ 0843x; JVC RM-C1281  (TV);0,90;Є
+ 0844; JVC RM-C1023  (TV)  =0839;1,20;НЕМАЄ
+ 0846; JVC RM-C1302  (TV)  =0847;1,25;Є
+ 0847; JVC RM-C1350  (TV)  PIP;0,85;Є
+ 0850; JVC RM-C1150  (TV)  =0852 Uni;1,40;МАЛО
+ 0851; JVC RM-710R ! Huayu ! Унив., LCD кор. RM-C2020;1,50;Є
+ 0853; JVC RM-C2020  LCD (=0851) ! Huayu !;1,25;Є
+ 0854; JVC RM-530F ! Huayu ! Унив., кор. RM-C530F;1,29;Є
+ 0859; JVC RM-C1171  LCD =0843 ! Huayu !;1,45;Є
+ 0860; JVC RM-C1100  (LCD TV)  Huayu  ! Huayu !;1,45;Є
+ 0864; JVC LT-32MU380 LT-32MU58 Huayu ! HQ ! (=3158);1,30;Є
+ 0865; JVC RM-L1552 ! Huayu ! Унив., кор.;1,90;Є
+;009 LG;;
+ 0902; LG 105-224P  (TV)  PIP;1,50;МАЛО
+ 0904; LG 105-230M, 105-230D, 105-230K  (TV)  ! Huayu !;1,20;Є
+ 0905; LG 6710V00088W  (TV)  =0935V, 0979;1,30;Є
+ 0907; LG 6710V0090D  (TV)  =0969  ! Huayu !;1,28;Є
+ 0908; LG 6710V00007A  (TV);1,30;МАЛО
+ 0910; LG 6710V00008A  (TV)  Huayu  ! Huayu !;1,25;Є
+ 09100; LG MKJ40653802  (LCD TV) не работает кн. P+ (=0986);1,05;Є
+ 09101; LG MKJ32022830/2835/2836, MKJ39170804 (Plasma TV)  (LCD TV) Huayu ! Huayu ! (=0983);1,50;Є
+ 09111; LG RM-L859 ! Huayu ! Унив.,  (LCD)  кор. AKB69680403;1,65;НЕМАЄ
+ 09114; LG MKJ40653831  LCD =0986;1,75;НЕМАЄ
+ 09115; LG RM-L810 ! Huayu ! Унив., LCD кор. AKB33871413, AKB33871408;1,64;Є
+ 09131; LG AKB33871409  (LCD TV)  Huayu  ! Huayu ! (=09115);1,65;Є
+ 09132; LG MKJ37815705  (LCD TV)  Huayu  ! Huayu ! (=09187);1,70;Є
+ 09133; LG AKB33871408  (LCD TV)  Huayu  ! HQ ! (=09115/09131/09180);1,40;Є
+ 09135; LG AKB72914066 (AKB73275612/ AKB72914294/ AKB72914290) (LCD TV)  3D smart (=09175, 3006) P;1,75;Є
+ 09136; LG AKB72914020 (AKB72914029, AKB72914039) (=09175, 3006) PNG;2,35;Є
+ 09137; LG AKB72915202  (LED TV)  (=09149,09138, 3013);1,70;НЕМАЄ
+ 09138; LG AKB72915244, LG AKB72915236 smart ! Huayu ! (=3013);1,70;Є
+ 09139; LG AKB73275605  (=AKB73275607)   (LCD TV) (=09175, 3006) P;2,20;Є
+ 0914; LG 6710V00017H /017F /017E (TV)  Huayu  ! HQ !;1,20;Є
+ 09141; LG AKB73275612 (AKB72914066/ AKB72914294/ AKB72914290) (LED TV) 3D smart (=09175, 3006) PNG;1,75;Є
+ 09145; LG AKB72914271  (LCD TV)  3D  ! Huayu ! (=09175, 3006);1,80;Є
+ 09146; LG AKB72915210  (LED TV)  Huayu  ! Huayu ! (=09149,3013);1,36;НЕМАЄ
+ 09147; LG MKJ33871410  (Plasma TV)  PDP (=09115) P;1,55;МАЛО
+ 09148; LG AKB72914004 (=AKB72914208, AKB72914206) (LCD TV) (=09175, 3006) P;1,90;МАЛО
+ 09149; LG AKB72915207 (=AKB72915202 )  =09138, 3013  ! Huayu !;1,70;Є
+ 09152; LG AKB33871407, AKB33871413  (TV)   (=09115);1,70;НЕМАЄ
+ 09155; LG RM-913CB ! Huayu ! Унив., кор. MKJ37815701 (=3011);1,40;Є
+ 09156; LG 6710900010A (6710900010J, MKJ32022805, MKJ32022806, MKJ32022804, 6710900010G) (=0983);2,05;НЕМАЄ
+ 0916; LG 6710V00124E  (090A /090B/090F)  (TV)  Huayu  ! Huayu ! (=0969, 0924));1,09;Є
+ 09162; LG AKB72914209  (LCD TV) (=09175, 3006) PN-G;2,00;Є
+ 09163; LG AKB72914265  (LCD TV)  Huayu  ! Huayu ! (=09175, 3006);2,05;НЕМАЄ
+ 09164; LG AKB72914278  (LCD TV) 3D Huayu  ! Huayu ! (=09175, 3006);2,20;НЕМАЄ
+ 09165; LG AKB72915269  (LED TV) 3D (=09138, 3013);2,00;МАЛО
+ 09167; LG AKB73615303, AKB73615362, AKB73756502   (=09175, 3006)  B;1,80;Є
+ 09168; LG AKB73655822  (LED TV) (=09180, 09115);1,60;НЕМАЄ
+ 09175; LG RM-L999+3 ! Huayu ! Унив., ( не работает кн. POWER на коде 6121)  =3006;0,95;Є
+ 09177; LG AKB73615306  (=09175, 09167)  ! Huayu !;1,85;НЕМАЄ
+ 09178; LG AKB73615307  (LED TV)  3D (=09175, 3006) P;2,00;Є
+ 09179; LG AKB73615308  (LED TV) NETFLIX;1,40;Є
+ 09180; LG AKB73655802 (= AKB73655861, AKB73655833)  (LED TV)  Huayu (=09168, 09115);1,40;Є
+ 09181; LG AKB73715603  LED ! Huayu ! (=3007);1,43;Є
+ 09185; LG AKB73715601 /AKB73715634 LED smart left ! Huayu ! (=3007);1,43;Є
+ 09187; LG MKJ37815701, LG MKJ37815707, MKJ37815715   (LCD TV) монитор;1,40;Є
+ 09193; LG AKB73715669 (AKB73715637) SMART 3D mini (=09185, 3007, 09256);1,40;Є
+ 09195; LG AKB73756502 (AKB73615303, AKB73615362, AKB73615302) =09175 smart 3D P;1,90;Є
+ 09197; LG AKB73715686  (LCD TV)  mini  Huayu  ! HQ ! (=09219, 3007 унив);1,30;Є
+ 09198; LG AKB73715694  (=AKB73715695 )  LED 3D mini ! Huayu ! (=3007);1,50;Є
+ 0920; LG 6710T00008B (AKB30377804, 6710V00126P, AKB30377805)  (LCD TV)  Huayu  ! Huayu !  (=0972);1,60;МАЛО
+ 09202; LG AKB73756564 (=AKB73756565) SMART maxi 3D my apps  Huayu ! HQ ! (=09195, 09175, 3006);1,60;НЕМАЄ
+ 09203; LG AKB73756571 SMART maxi  my apps  (=09175, 3006) PN-G;1,65;Є
+ 09205; LG AKB73975757/AKB74475404 smarp up  ! Huayu !  (=09242, 3007);1,43;Є
+ 09206; LG AKB73975761 (AKB73975729)  (=3007)  SMART mini 3D P;1,30;НЕМАЄ
+ 09208; LG AKB36157102  (LCD TV);1,00;НЕМАЄ
+ 09209; LG AKB69491503  (HT)  Tuner, iPod, PIP;1,10;НЕМАЄ
+ 09210; LG AKB72915238  (LCD TV)  HOME;1,90;МАЛО
+ 09211; LG AKB72915249  (LCD TV)  HOME;1,90;МАЛО
+ 09212; LG AKB72915252  (LCD TV)   (=09138, 3013);2,00;Є
+ 09214; LG AKB73615319  (LCD TV)  (=09195, 09175, 3006)  B;2,00;МАЛО
+ 09215; LG AKB73655808  (LCD TV);2,05;НЕМАЄ
+ 09216; LG AKB73715613  (LCD TV) mini (=09181, 3007);1,40;МАЛО
+ 09217; LG AKB73975701  (LED TV)  smart mini (=3007);1,40;Є
+ 09218; LG AKB73756559  SMART maxi my apps (=09195, 09175, 3006) B;1,90;Є
+ 09219; LG AKB73715679 =LG AKB74475403 (LED)  ! HQ ! (=09224,3007);1,20;НЕМАЄ
+ 0922; LG 6710V00070A  (TV);1,15;Є
+ 09220; LG AKB37026832, HT355SD (DVD, HT)  Huayu ! Huayu !;1,50;МАЛО
+ 09221; LG AKB37026852 (AUX, DVD, Home Theater)  Huayu ! Huayu !;1,50;МАЛО
+ 09222; LG AKB74915330  (LED)  mini домик (=3007);1,40;Є
+ 09225p; LG AKB74475481  (LED)  mini /my apps /домик ! HQ ! (=3007);1,20;Є
+ 09226; LG AKB73975733  (LED)  smart 3D mini (=3007) B;1,40;Є
+ 09228; LG AKB74915346 (LED)  smart 3D mini (=3007);1,45;НЕМАЄ
+ 09229; LG MR21GA  AKB5855502, AKB6036201 Netflix, Magic Motion Оригинал;37,00;МАЛО
+ 0923; LG 6710V00070B  (TV);1,10;Є
+ 09232; LG AKB74455401 (LED)  maxi  Huayu ! Huayu ! (=09223, 09175, 3006);1,90;НЕМАЄ
+ 09234; LG AKB74475401 ! Huayu !;1,55;МАЛО
+ 09236; LG AKB74915324 LED домик ! Huayu ! (=03237, 3007);1,60;Є
+ 09237; LG AKB74915325  (=09236, 3007) с домиком ! Huayu !;1,60;Є
+ 09237x; LG AKB74915325  (=3007) smart  mini  P;1,40;Є
+ 0924; LG 6710V00090A  ! Huayu ! (=0916, 0969);1,10;Є
+ 09243; LG AKB73715639  (LED TV) (=3007);1,40;МАЛО
+ 09246;" LG AKB75095312/AKB75375611  (LCD TV) mini  с кнопкой "" ivi "" (=3007)";1,80;Є
+ 0925; LG 6710V00124Y (TV)  Huayu  ! Huayu ! (=0931, 0969);1,15;Є
+ 09250; LG AKB75095308 /AKB75375608 (=3099) Домик+ NETFLIX   PN;1,43;Є
+ 09251; LG AKB75055702  SMART mini 3D (=3007) P;1,40;Є
+ 09256; LG AKB73715637  SMART mini 3D  (LED TV)  Huayu  ! Huayu ! (=3007);1,30;НЕМАЄ
+ 09257; LG AKB75675312 LCD  домик ! Huayu !;1,15;Є
+ 0926; LG 6710V00124X,  MKJ61608504 (TV) =0931;1,25;Є
+ 09260; LG RM-L1616 PBOX ! Huayu ! Унив.,  (LCD LED HD TV) mini;1,50;Є
+ 09261;" LG Magic Motion Remote LG AN-MR20GA оригинал AKB75855501 (заменяет все предидущие) кнопка ""NETFLIX""";11,50;НЕМАЄ
+ 09265;" LG MR20GA  AKB75855501 ""NETFLIX"" голос ! HUAYU !";11,50;Є
+ 0931; LG 6710V00124D, MKJ61608507, 6710V00124Y  (TV)  Huayu  ! Huayu ! (=0969);1,30;Є
+ 0933; LG 6710V00112Q  (TV VCR) =0935V, 0979;1,20;НЕМАЄ
+ 0935V; LG 6710V000112 V/P/D, 6710V00145J =0979   P;1,40;Є
+ 0937V; LG 6710V00077V/ 6710V00077U/6710V000112D (TV) Huayu ! Huayu ! (=0935V, 0979);1,35;Є
+ 0938; LG 6710T00126R  (LCD TV);1,90;МАЛО
+ 0941; LG MKJ30036802  (TV) ! HQ !;1,15;Є
+ 0942; LG MKJ33981404 (=MKJ33981406, MKJ61611325, MKJ61611305) (TV)  (=3011.09155);1,35;Є
+ 0946; LG 6711R1P089B/089A/089L  (DVD);1,10;Є
+ 0955; GoldStar 105-230A /210A /230F;0,75;Є
+ 0962; LG 6710CDAT04E, LG 6710CDAT04D  XH-TK550, XH-TK55TBS/TBW  (HT)  Huayu  ! Huayu !;0,70;Є
+ 0969; LG RM-609CB+ ! Huayu ! Унив., кор. 090D;1,15;Є
+ 0979; LG RM-158CB ! Huayu ! Унив., кор. 112Q;1,85;Є
+ 0982; LG RM-D656 ! Huayu ! Унив.,  (LCD TV) кор. 6710V00141K;1,30;МАЛО
+ 0983; LG RM-D657 ! Huayu ! Унив.,  (LCD TV)  кор. MKJ32022838;1,85;Є
+ 0985; LG RM-D683CB ! Huayu ! Унив., кор. MKJ35834601;1,35;Є
+ 0986; LG RM-D757 ! Huayu ! Унив.,  (LCD TV)  кор. MKJ40653805;1,45;Є
+ 0991; LG AKB69680403, AKB69680408, AKB69680438 (=09111);1,40;Є
+ 0992; LG 6710V00145J (TV)  =0935V, 0979;1,50;НЕМАЄ
+ 0994; LG MKJ42519605 601/615/618  (Plasma, LCD TV) (=0986);1,15;НЕМАЄ
+ 0999; LG MKJ30036804  (TV)  Huayu  ! Huayu !;1,40;Є
+ 3006; LG RM-L930+! Huayu ! Унив., 3D кор. AKB72914293 (=09175);2,20;НЕМАЄ
+ 3007; LG RM-L1162 V5 ! Huayu ! Унив.,  (LCD/LED TV);1,38;Є
+ 3011; LG RM-752CB ! Huayu ! Унив.,  (LCD TV)  кор. MKJ37815701(=09155);1,40;Є
+ 3013; LG RM-L915+ ! Huayu ! Унив., (LED TV)  3D кор. AKB72915207 (=3074);1,95;Є
+ 3014; LG RM-L1069 ! Huayu ! Унив., (LCD TV)  3D;1,35;НЕМАЄ
+ 3078; LG RM-D1296  ! Huayu ! Унив., (BLU-RAY DISK HOME THEATER);1,65;Є
+ 3080; LG RM-D1318  ! Huayu ! Унив., (CD Home AUDIO/ SOUND BAR/MINI AUDIO);1,65;Є
+ 3088; LG RM-G3900 ver.2 Magic Motion для серии (MR) ! Huayu !;12,00;НЕМАЄ
+ 3099; LG RM-L1379 ! Huayu ! Унив., для LG smart TV =3007;1,50;НЕМАЄ
+;010 ORION;;
+ 1004; Orion 076L078030  (TV)  Huayu  ! Huayu !;0,75;МАЛО
+ 1006; Orion 076L078090  (TV)  Huayu  ! Huayu !;0,50;МАЛО
+ 1011; Orion OR-LCD1, LCD2016  (LCD TV) ! HQ !;1,40;Є
+ 1012; Orion OR-LCD2, LCD1922  (LCD TV);1,35;Є
+ 1013; Orion RC-56,  A76M027002  (TV);0,70;Є
+ 1021; Orion RC-R02 PRIMA, RC-R16-0A, RC-R01-OH TXT  (TV)  Huayu  ! Huayu !;1,35;Є
+ 1022; Orion PT2461-103 /SP2150  (TV) ! Huayu !;1,15;Є
+ 1022x; Orion PT2461-103 /SP2150  (TV) Prowest;0,98;Є
+ 1024; Orion 076N0GE030  (TV) ( код 50AF) на 30 % телевизоров;0,80;Є
+ 1025; Orion K-37, SPP1416  (TV) (=1610);1,60;НЕМАЄ
+ 1035; Orion WH-9012,  Start-Rotex  (TV)  Huayu  ! Huayu !;1,10;Є
+ 1036; Orion LT-002A, SPP1419  (TV)  Huayu  ! Huayu !;1,00;МАЛО
+ 1037; Orion KJ-PHEA2-44, Grol GR-21FT/ SPP2923, West K-8891A/ 29HZ14/SSP1426  (TV)  Huayu  ! Huayu !;1,10;Є
+ 1040; Orion RC-007F-901, Digital 16J103 / 19J103 / 22J103  (TV)  Huayu  ! Huayu !;1,00;Є
+ 1043; Orion RC-2028/ RC-E22, Panasonic LE-2620, Luxeon LED3213, Hyundai H-32V3 ! Huayu ! (=2955);0,80;Є
+ 1044; Orion-Konka RC-OR SPP1424/ 1426/ 1525/ 2124F/ 2126F, Patriot 1428/ 1429  P;1,15;МАЛО
+ 1048; Orion SPP1437/2132/2133  (TV);1,20;Є
+ 1050; Orion LED1541, LED-2247 LED+USB  (TV)  Huayu  ! Huayu !;1,50;Є
+;011 PANASONIC;;
+ 1104; Panasonic EUR501310  (TV)  Huayu  ! Huayu !;1,10;Є
+ 1104x; Panasonic EUR501310  (TV);0,80;Є
+ 1105; Panasonic EUR501325/EUR501320 (TV);0,75;Є
+ 1106; Panasonic EUR501380, EUR501390  (TV);1,10;Є
+ 11104; Panasonic EUR7651030A/ EUR7651060/ EUR7651090  (LCD TV)  Huayu  ! Huayu !;1,90;Є
+ 11106; Panasonic RM-532M ! Huayu ! Унив., кор.  EUR7717010;1,15;НЕМАЄ
+ 11111; Panasonic N2QAYB000399/ N2QAYB000370 (=11123)  ! Huayu !;1,80;НЕМАЄ
+ 11119; Panasonic EUR7651110  (LCDTV+DVD)  =1196  ! Huayu !;1,70;Є
+ 11120; Panasonic N2QAHB000068  (TV)  Huayu  ! Huayu !;0,95;Є
+ 11122; Panasonic EUR641030A  (TV)  Huayu  ! Huayu !;0,55;НЕМАЄ
+ 11123; Panasonic RM-D920+ ! Huayu ! Унив., кор. N2QAYB000399;1,65;Є
+ 11125; Panasonic N2QAYB00543  (LCD TV)  Viera  Huayu  ! Huayu ! (=3063, 11123);1,65;Є
+ 1113; Panasonic EUR7635050, EUR7635040  multi pip (LCD TV)  Huayu  ! Huayu ! (=1192);1,60;Є
+ 11133; Panasonic N2QAYB000752  (=3023);1,80;Є
+ 11136; Panasonic N2QAYB000487/489/490/504 (=3023) P;1,65;МАЛО
+ 11136h; Panasonic N2QAYB000487/489/490/504 (=3023) ! Huayu !;1,75;Є
+ 1114; Panasonic EUR511300  (TV+VCR)  (=1104 без VCR);0,90;НЕМАЄ
+ 11140; Panasonic EUR7722XEO  (HT)  Huayu  ! Huayu ! от домашнего театра;0,30;НЕМАЄ
+ 11153; Panasonic N2QAYB000830, N2QAYB000840 (LCD) ! Huayu ! (=11123);2,30;НЕМАЄ
+ 11154; Panasonic TX-24/32/42DR300, TX-32/42ER250ZZ (LED TV) Huayu ! Huayu !;1,50;Є
+ 11155; Panasonic N2QAYB001009 NETFLIX  (=3077 унив)  B;1,90;Є
+ 11156; Panasonic N2QAYB001011 (LED) NETFLIX  белый (=3077) P;1,75;Є
+ 11157; Panasonic EUR7722X10  (HT)  Huayu  ! Huayu ! от домашнего театра;0,80;НЕМАЄ
+ 11158; Panasonic N2QAYB000666  (=3023);2,00;НЕМАЄ
+ 11160; Panasonic 32ESR500 TX, 40DR400 Huayu Panasonic RC48127/30089238 (LCD TV)  ! Huayu !;1,60;Є
+ 11161; Panasonic 48CR300 (LED) Huayu ! Huayu !;1,65;Є
+ 11162; Panasonic RM-L1700 ! Huayu ! Унив., кор.;3,30;Є
+ 11163; Panasonic PN-V1 голос;8,70;МАЛО
+ 1118; Panasonic EUR7651150  (=1196, 11119) PNG;1,50;НЕМАЄ
+ 1125; Panasonic EUR51971/ EUR51913  (TV+VCR)  clock  Huayu  ! Huayu !;1,90;Є
+ 1128; Panasonic EUR511310  (TV);1,15;МАЛО
+ 1130; Panasonic EUR646925, EUR646932  (TV)  Huayu  ! Huayu !;1,15;Є
+ 1131; Panasonic TNQG0403/ 0402/ 0401  (TV);1,20;Є
+ 1134; Panasonic EUR512981  (TV) (=1176, 11106);0,75;НЕМАЄ
+ 1135; Panasonic EUR644666  (TV)  Huayu  ! Huayu !;1,25;Є
+ 1136; Panasonic SBAR20026A-3  (TV+VCR);1,10;Є
+ 1137; Panasonic TNQ8E-0461-2, TNQ10481, EUR51851  (TV+VCR)  Huayu  ! Huayu !;1,40;Є
+ 1140; Panasonic TNQ2640/ 2636/ 2637  (TV+VCR)  Huayu  ! Huayu !;1,20;Є
+ 1141; Panasonic EUR7651120, N2QAYB000223 (LCD TV)  (=1196) P;1,50;МАЛО
+ 1151; Panasonic EUR7628010  (TV+DVD) Huayu ! Huayu ! (=1191);1,80;НЕМАЄ
+ 1176; Panasonic EUR7717010/020/030  (TV)  Huayu  ! Huayu ! (=11106);1,30;Є
+ 1184; Panasonic N2QAJB000080 (EUR7628010) (=1191, 1176 без VCR) P;1,35;Є
+ 1184h; Panasonic N2QAJB000080 (EUR7628010) (=1191, 1176 без VCR) ! Huayu !;1,65;Є
+ 1191; Panasonic RM-520M ! Huayu ! Унив., (TV+VCR+DVD) кор. N2QAJB000080;1,60;НЕМАЄ
+ 1192; Panasonic RM-D630 ! Huayu ! Унив., (LCD TV)  кор. EUR7635040 (=1113);1,45;Є
+ 1194; Panasonic RM-D411 (DVD) ! Huayu ! Унив., кор. типа EUR7621010;1,30;Є
+ 1196; Panasonic RM-D720 ! Huayu ! Унив.,  (LCD TV)  кор. типа EUR7651150 (=11119);1,45;НЕМАЄ
+ 3023; Panasonic RM-D1170 ! Huayu ! Унив., (LCD TV+DVD) 3D кор. N2QAYB000572 Viera;1,60;Є
+ 3040; Panasonic RM-172M ! Huayu ! Унив., кор. EUR511220;1,35;Є
+ 3041; Panasonic RM-L1378 NETFLIX ! Huayu ! Унив.;2,10;Є
+ 3063; Panasonic RM-1020M ! Huayu ! Унив.,  (LCD TV)  Viera (=11123 унив);1,60;НЕМАЄ
+ 3077; Panasonic RM-L1268 NETFLIX  (=3041)  ! Huayu ! Унив.;1,85;НЕМАЄ
+;012 PHILIPS;;
+ 1202; Philips RC-0301  (TV);0,90;НЕМАЄ
+ 1203; Philips RC-0770/01, RC-0764/01  (TV)  Huayu  ! Huayu !;0,95;Є
+ 1204; Philips RC-2835/01  (TV) (=1289);1,30;Є
+ 1208; Philips RC-7535/01  (TV+VCR) P;1,60;Є
+ 12103; Philips RM-670C ! Huayu ! Унив., (LCD/LED TV) кор. RC2143606/01;1,90;Є
+ 12112; Philips RC-2422 549 02314/ 02315/ 02344 (LCD TV) Huayu ! Huayu ! (=12123, 12116);1,80;Є
+ 12113; Philips RC-4401-01/ 4701-01/ 5601-01/ 2422 5490 0847  (LCD TV+DVD)  (=12104);2,45;Є
+ 12116; Philips 2422 549 02454, RC4747  (=12112, 12103);2,40;НЕМАЄ
+ 12123; Philips RM-D1000 ! Huayu ! Унив., (LCD/LED/HD TV)  кор. RC-4495;1,87;Є
+ 12124; Philips RM-L1030 ! Huayu ! Унив., (LCD/LED TV) (=12125);1,65;Є
+ 12125; Philips RM-D1070 ! Huayu ! Унив., (LCD/LED TV) кор. 2422 549 90301 P-box;1,90;Є
+ 12126; Philips 2422 549 90301, 2422 549 90416 (LED TV)  (=12125, 12169)   B;1,65;Є
+ 1213; Philips RC-7940/ 7953/ 7954  (TV)  Huayu  ! Huayu !;0,90;МАЛО
+ 12130; Philips RC-2422 549 90467/YKF309-001/398GR8BD3NTPHT/398GR8BD3NTPHH (LED) ! HQ ! (=3018, 12134);1,80;Є
+ 12134; Philips 2422 549 90477/YKF314-001 (LED TV) 3D smart Huayu ! Huayu ! (=3010);2,15;Є
+ 12137; Philips 9965 900 00449,  YKF308-001 (LED TV) Huayu  ! HQ ! (=12139, 12130);1,45;Є
+ 12139; Philips RM-L1125+ ! Huayu ! Унив., (LCD/LED TV) кор. YKF308-001;1,62;Є
+ 12145; Philips RC-2143801/01, 3139 2285 2871 (LCD TV) Huayu ! Huayu ! (=12103);2,20;Є
+ 12146; Philips 9965 900 09443  (=3029 /RM-L1225) ! Huayu !;1,83;Є
+ 12154; Philips 996590003112 (26PFL2908H/60) =12137   B;1,55;НЕМАЄ
+ 12159; Philips  49PUT6101/60   (=3076) ! Huayu !;1,90;Є
+ 12159x; Philips  49PUT6101/60 )  (=3076) PN;1,65;Є
+ 12165; Philips 398GR08BEPHN001011 (=12159, 3076) NETFLIX smart  P;1,90;НЕМАЄ
+ 12168; Philips RC-2422 549 90637 (LCD TV) (=12130);2,20;Є
+ 12169; Philips RM-L1075 ! Huayu ! Унив., (LCD/LED TV) кор.(=12125);1,35;Є
+ 1217; Philips RC-8205/01  (TV)  Huayu  ! Huayu !;1,35;Є
+ 12170; Philips PH-V1 голосовое управление;11,50;Є
+ 12171; Philips BRC0884402/01 NETFLIX (=1295);2,70;МАЛО
+ 12172; Philips RM-L1760 ! Huayu ! Унив., кор.;2,70;Є
+ 1218; Philips RC-2143606/01 (LCD TV) smart Huayu ! Huayu ! (=12103);1,95;НЕМАЄ
+ 1224; Philips RC-7507  (TV+VCR);1,40;Є
+ 1225; Philips RC-21  (TV);1,15;Є
+ 1229; Philips RC-19039001  (TV+VCR)  RADIO ! Huayu !;1,65;НЕМАЄ
+ 1233; Philips RC19335012, RC-1081 (TV) RADIO  (=1290);1,40;Є
+ 1237; Philips SBC RP-520  (TV+VCR);1,60;Є
+ 1238; Philips RC-2575/01, RC-2543/01,  RC-2525/01 Huayu  ! Huayu !;1,15;Є
+ 1238x; Philips RC-2575/01, RC-2543/01,  RC-2525/01 (TV);0,95;Є
+ 1245; Philips RC-19035003, RC-19335002/01 (TV) Huayu ! Huayu ! (=1290);1,20;Є
+ 1245x; Philips RC-19035003, RC-19335002/01 (TV) Huayu  (=1290);1,05;Є
+ 1248; Philips RC-19042001  (TV+VCR)  smile-smile  Huayu  ! Huayu !;1,35;Є
+ 1251; Philips RC-1683701/01 Huayu  ! Huayu ! (=1269);1,25;НЕМАЄ
+ 1252; Philips RC-2023601/01  (LCD TV)  smart  (=1253, 1265) PNB;1,25;Є
+ 1253; Philips RC-2023617/01  (LCD TV)  Huayu  ! Huayu ! (=1252);1,05;Є
+ 1254; Philips RC-2023611/01  (=1265, 1253);1,25;Є
+ 1265; Philips RM-627C ! Huayu ! Унив., (LCD/LED TV) кор. 2023611/01;1,25;Є
+ 1267; Philips RM-719C ! Huayu ! Унив., (LCD/LED TV) кор. RC-2034301/01;1,68;Є
+ 1269; Philips RM-D631 ! Huayu ! Унив., (TV AUX) кор.1683701/01;1,66;Є
+ 1276; Philips RC-19335023/01H  (LCD TV)  Huayu  ! Huayu ! (=1290);1,50;МАЛО
+ 1278; Philips 2422 549 01911 (LCD TV) Huayu ! Huayu ! (=12103);1,60;НЕМАЄ
+ 1289; Philips RM-022C ! Huayu ! Унив., кор. RC-2835;1,15;Є
+ 1290; Philips RM-120C ! Huayu ! Унив., кор. 19339001;1,20;Є
+ 1291; Philips RM-D727 ! Huayu ! Унив., (LCD+DVD+VCR+SAT) кор. RC4344;3,35;НЕМАЄ
+ 1292; Philips 2422 549 01833, RC2143604/01  (LCD TV)  (=1294, 12103, 12145) PNG;1,40;МАЛО
+ 1294; Philips 2422 549 01834,  RCPF05E08B  (LCD TV)  smart;1,20;Є
+ 1295; Philips RM-L1660  PBOX  ! Huayu ! Унив.,;2,70;Є
+ 3004; Philips RM-D622 ! Huayu ! Унив., (DVD) кор. RC2011;1,00;Є
+ 3010; Philips RM-L1128 ! Huayu ! Унив., (LED) кор. 2422 549 90477 (=12134);1,95;Є
+ 3018; Philips RM-D1110 ! Huayu ! Унив., (LCD/LED TV) (=3010);1,50;Є
+ 3028; Philips RM-L1220 ! Huayu ! Унив., (smart led tv) кор. Philips 9965 900 09748 бабочка;2,10;Є
+ 3029; Philips RM-L1225 ! Huayu ! Унив., smart (=3028);1,71;Є
+ 3076; Philips RM-L1285  ! Huayu ! Унив., (smart led tv) стрелка, Netflix внизу;1,77;Є
+;013 SAMSUNG;;
+ 1301; Samsung 3F14-00038-321  (TV) Huayu  ! Huayu !;1,25;Є
+ 1302; Samsung 3F14-00034-162 (-140,141,142,300,500,840,841,842,843,844,890,B80,B90,С10) PN;1,50;Є
+ 1304; Samsung AA59-00332D  (TV)  (=1320, 1395);1,05;Є
+ 1307; Samsung BN59-00676A (LCD TV) PLAZMA Huayu ! HQ !  (=13113 );1,30;Є
+ 1310; Samsung AA59-00382A  (LCD TV)  Huayu  ! Huayu ! (=1383);1,49;НЕМАЄ
+ 13106; Samsung BN59-00685A, BN59-00686A (LCD TV) (=3090)  PROWEST;1,50;Є
+ 13108; Samsung RM-016FC ! Huayu ! Унив., кор. 0198G;1,24;Є
+ 1311; Samsung BN59-00507A  (LCD TV)  with PIP  (=1310,1383);1,55;МАЛО
+ 13110; Samsung BN59-00437A  (LCD TV)  Huayu  ! Huayu ! (=1382);1,30;Є
+ 13112; Samsung RM-D762 ! Huayu ! Унив., (LCD/LED TV) кор. BN59-00937;2,80;Є
+ 13113; Samsung RM-L808 ! Huayu ! Унив., (LCD/LED TV) кор. BN59-00676A;1,75;Є
+ 13125; Samsung BN59-00683A  (LED TV+DVD)  K.i.N.O. 3D (=3090);1,65;Є
+ 13126; Samsung RM-L800 ! Huayu ! Унив.,  (LCD/LED TV)  кор. BN59-00865A;1,56;НЕМАЄ
+ 13128; Samsung BN59-01039A /01015A /01078A (LED TV)  Huayu  ! Huayu ! (=13142/13171 унив);1,55;Є
+ 1313; Samsung 3F14-00034-981  (=-780,781,790,980,982)  (TV)  Huayu  ! Huayu !;1,05;Є
+ 13133; Samsung BN59-01014A, BN59-01081A  (LED TV)  (=13142 унив) P;1,65;Є
+ 13134; Samsung BN59-00602A (=1384) ! Huayu !;1,60;Є
+ 13135; Samsung BN59-00940A (=BN59-00936A)  ! HQ !(=3049);1,55;НЕМАЄ
+ 13136; Samsung BN59-00624A  (LCD TV) (=1383);1,55;НЕМАЄ
+ 13139; Samsung BN59-00862A  (LCD TV) (=3049, 13135);2,10;НЕМАЄ
+ 13141; Samsung BN59-00890A  (LCD TV);1,55;Є
+ 13142; Samsung RM-L919 ! Huayu ! Унив., (LCD/LED TV) кор. BN59-01039A (=13171);2,09;Є
+ 13144; Samsung BN59-01040A (=13171)  3D PN-G;2,20;МАЛО
+ 13148; Samsung AA59-00508A SMART ( AA59-00465A )  ! Huayu ! (=13171, 13192);1,70;НЕМАЄ
+ 13158; Samsung BN59-00603A (=BN59-00618A белый)  (LCD TV+DVD+VCR)  Huayu  ! Huayu ! (=1384);1,65;Є
+ 13162; Samsung BN59-00938A  (LCD TV)  Huayu  ! Huayu ! (=3049, 13135);2,15;Є
+ 13165; Samsung BN59-01005A  (LCD TV)  Huayu  ! Huayu !;1,50;НЕМАЄ
+ 1317; Samsung AA59-00198D/00104D  (TV) (=1331) PN;1,05;НЕМАЄ
+ 13171; Samsung RM-L1015 ! Huayu ! Унив.,  (LCD/LED TV) кор. BN59-01037A (=13142);1,80;НЕМАЄ
+ 13172; Samsung HUAYU RM-D1078+ Унив., LCD/LED 3D кор. AA59-00581A (=3096);1,83;Є
+ 13173; Samsung AA59-00644A (LED smart 3D) (=13172);1,55;НЕМАЄ
+ 13176; Samsung AA59-00484A  (LCD TV)  Huayu  ! Huayu ! (=3049, 13135);1,90;НЕМАЄ
+ 13177; Samsung AA59-00581A  (LCD TV)  smart 3D ! Huayu !  (=13172);1,81;Є
+ 13178; Samsung AA59-00638A (AA59-00644A) (=13172) smart  PNG;1,70;Є
+ 13185; Samsung HUAYU RM-L1088 V5 SMART/NETFLIX Унив., LED кор. AA59-00741A (=13240);1,35;Є
+ 13185V; Samsung RM-L1088+ Унив., (LCD/LED TV) mini кор. AA59-00741A (=13240);1,35;Є
+ 13187; Samsung AA59-00741A/ AA59-00602A LED ! Huayu ! (=13220);1,33;Є
+ 13188; Samsung AA59-00742A (=13185, 13187)  ! Huayu !;1,30;Є
+ 13189; Samsung AA59-00743A (=13202, 13185)  P;1,35;НЕМАЄ
+ 1319; Samsung 3F14-00038-093/091/092/420/450/510 (AA59-10014A/15A)  (TV+VCR) Huayu ! Huayu !;1,25;Є
+ 13190; Samsung AA59-00793A (AA59-00795A) (LED TV)  Huayu  ! Huayu ! (=13172);1,95;НЕМАЄ
+ 13192; Samsung AA59-00507A SMART (=13171)  ! Huayu !;1,80;Є
+ 13193; Samsung AA59-00630A/ AA59-00714A  (LED TV)  3D ! Huayu ! мониторов;1,35;НЕМАЄ
+ 13196; Samsung AA59-00582A (=13177, 13172) smart  P;1,95;Є
+ 1320; Samsung AA59-00332A/ 0312/ 0331/ 0345 А/C/D  (TV)  Huayu  ! Huayu ! (=1395);1,43;Є
+ 13202; Samsung AA59-00603A /00743A  (LED TV) TM1240+3D Huayu ! Huayu ! (=13185);1,60;НЕМАЄ
+ 13204; Samsung AA59-00823A PIP/SPORTS  (=13185)  ! Huayu !;1,35;Є
+ 13205; Samsung BN59-01178B (=BN59-01178C ) (LED TV) smart (STB) Huayu ! HQ ! (=13172);1,45;НЕМАЄ
+ 13207; Samsung AA59-00818A mini 3D  (LCD TV)  Huayu  ! Huayu ! (=13185);1,60;Є
+ 13210; Samsung AA59-00580A  (LED TV)  smart (=13172) PNG;1,70;Є
+ 13211; Samsung AA59-00588A  (=13172) smart  P;1,70;НЕМАЄ
+ 13213; Samsung AA59-00639A  (LED TV)  smart (=13172) P;2,00;Є
+ 13215; Samsung AA59-00784C  (LED TV)  smart STB NETFLIX (=3096);2,15;МАЛО
+ 13216; Samsung BN59-01054A  (LCD TV) (=13171)  G;1,70;Є
+ 13217; Samsung BN59-01198C  (LED TV)  smart SPORTS  Huayu  ! Huayu ! (=13172);1,75;НЕМАЄ
+ 13218; Samsung BN59-01175N  LED SMART HUB LED  (=13232, 13185) ! Huayu !;1,40;Є
+ 13219; Samsung AA59-00786A LED smart HUB 3D (=13218, 13185) B;1,40;Є
+ 1322; Samsung 3F14-00038-300  (= 3F14-00038-321, AA59-10014R)  (TV);1,10;НЕМАЄ
+ 13220; Samsung AA59-00602A  (LED TV) TM1240 Huayu (=13187, 13185) ! Huayu !;1,65;НЕМАЄ
+ 13220x; Samsung AA59-00602A  (LED TV) TM1240 Huayu (=13187, 13185);1,50;НЕМАЄ
+ 13221; Samsung AA59-00540A (LED) (=13171) (корп.3);1,80;НЕМАЄ
+ 13222; Samsung AA59-00629A (=13171) P;1,65;Є
+ 13224; Samsung AA59-00607 (LED) (=13185);1,50;МАЛО
+ 13225; Samsung AA59-00802A (LED) (=13185);1,40;Є
+ 13226; Samsung BN59-01178G белый (LED TV)  smart (PIP)  Huayu  ! Huayu ! (=13172);1,95;Є
+ 13231; Samsung BN59-01247A / BN59-01248A (LED TV)  smart SPORTS  Huayu  ! Huayu ! (=13185);1,25;НЕМАЄ
+ 13232; Samsung AA59-01199G Smart Hub mini LED (=13218, 13185) ! Huayu !;1,50;НЕМАЄ
+ 13233; Samsung BN59-01259B/BN59-01312B  (=13241);2,30;Є
+ 13234; Samsung BN59-01268D, BN59-01303A (=13185) SMART HOME  PROWEST;1,55;Є
+ 13236; Samsung BN-Q789FC  Smart TV  2,4 Ghz  Mouse  Алюминий USB;9,50;Є
+ 13240; Samsung RM-L1618 ! Huayu ! Унив., Домик NETFLIX LED кор. AA59-00741A;1,30;Є
+ 13241; Samsung RM-L1593 PBOX ( BN59-01358B)! Huayu ! Унив., (LCD/LED/HDTV);1,90;Є
+ 13242; Samsung RM-L1611 PBOX ! Huayu ! Унив., (LCD/LED/HDTV);1,90;Є
+ 13244; Samsung AA59-01315B NETFLIX ! Huayu ! (=13240);1,50;Є
+ 13246; Samsung RM-G2100 VER.1  BN59-01312B (голос) ! Работают на ТВ c 1.01.2021 года !;13,00;Є
+ 13247; Samsung AA81-00243A (Сервисный пульт);1,40;Є
+ 13248; Samsung RM-L888  ! Huayu ! Унив., (LCD/LED TV);1,65;МАЛО
+ 13249; Samsung RM-L1728  ! Huayu ! Унив., (LCD/LED TV);1,90;НЕМАЄ
+ 13250; Samsung RM-L1729  ! Huayu ! Унив., (LCD/LED TV);2,80;Є
+ 13252; Samsung BN59-01358B інфрачервоний;2,40;МАЛО
+ 13258; Samsung BN59-01312A IR (RM-L1619 V2);2,35;Є
+ 1328; Samsung AA59-00104N/00198G /00104K  (TV)  Huayu  ! Huayu ! (=1329);1,25;Є
+ 1329; Samsung AA59-00198G /00104N /00104K  (TV)  Huayu  ! Huayu !  (=1342);1,25;Є
+ 1331; Samsung AA59-00104D, AA59-00198D  (TV) (=1317);1,05;НЕМАЄ
+ 1332; Samsung AA59-00104A  (TV) (=1368, 0969);1,00;МАЛО
+ 1334; Samsung AA59-00198F  (TV)   ! Huayu !;1,18;Є
+ 1337; Samsung AA59-10031Q/  AA59-10081F  (TV);0,95;Є
+ 1338; Samsung RM-105 AM2003  (TV);1,15;МАЛО
+ 1339; Samsung AA59-10032W  (TV)  Huayu  ! Huayu ! (=1341);1,35;Є
+ 1341; Samsung AA59-10075K  (=10076M,P,10093H,3F14-00048-180) (TV+VCR)  Huayu  ! Huayu ! (=1339);1,55;НЕМАЄ
+ 1342; Samsung AA59-00104K  (TV) ! Huayu ! (замена 1329);1,00;НЕМАЄ
+ 1347; Samsung BN59-00604  (LCD TV+DVD+SAT) (=1384);2,30;МАЛО
+ 1350A; Samsung AA59-10116A  (TV)  Huayu  ! Huayu !  (=1355);1,10;НЕМАЄ
+ 1355; Samsung AA59-10107N ( 10116A / 10107C / 10129C) (TV);1,20;Є
+ 1357; Samsung AA59-00104B  (TV) Huayu ! Huayu ! (=1368, 1329, 0969);1,00;НЕМАЄ
+ 1359; Samsung AA59-10129C  (TV)  Huayu  ! Huayu ! (=1355);1,15;НЕМАЄ
+ 1362; Samsung AA59-00370A/B  (=1382) P;1,25;Є
+ 1365; Samsung BN59-00488A  (LCD TV)  Huayu  ! Huayu ! (=1382);1,40;НЕМАЄ
+ 1368; Samsung AA59-00198H (00104A/ 00104B / 00198B/ 10129C)  (TV)  Huayu  ! Huayu !;1,20;НЕМАЄ
+ 1369; Samsung AA59-00357B  (TV DVD);1,30;Є
+ 1370; Samsung  AA59-00401C/B/00399A/00421A  (LCD) ! Huayu ! (=1379, 1386);1,49;Є
+ 1377; Samsung BN59-00530A  (LCD TV+DVD+SAT) (=1384) P;1,85;МАЛО
+ 1378; Samsung BN59-00857A (=13126)  ! Huayu !;1,40;Є
+ 1379; Samsung BN59-00609A (=1310, 1370, 1383);1,30;НЕМАЄ
+ 1383; Samsung RM-625F ! Huayu ! Унив., (LCD/LED/HD TV) кор. BN59-00613A;1,68;Є
+ 1384; Samsung RM-D613 ! Huayu ! Унив., (LCD/LED/HD TV) кор. 604A;1,71;Є
+ 1385; Samsung RM-D635 ! Huayu ! Унив., (LCD/LED/HDTV) кор. BN59-00468;2,10;НЕМАЄ
+ 1386; Samsung RM-658F ! Huayu ! Унив., (LCD/LED/HD) кор. AA59-00401;1,52;Є
+ 1390; Samsung AH59-01695N  (HT)  Huayu  ! Huayu !;1,00;НЕМАЄ
+ 1395; Samsung RM-179FC ! Huayu ! Унив., кор. 332А;1,33;Є
+ 1397; Samsung BN59-00865A  (=13165, 13126)   ! Huayu !;1,50;Є
+ 3049; Samsung RM-L898 ! Huayu ! Унив., (LCD/LED TV) (=13135)  кор. BN59-01012A;1,80;НЕМАЄ
+ 3073; Samsung SR-7557 BN59-077557A ! Huayu ! Унив., (Smart TV) кор. BN59-01182B;12,90;Є
+ 3090; Samsung RM-766B ! Huayu ! Унив., корп. BN59-00685A  (LCD TV+DVD);1,80;НЕМАЄ
+ 3093; Samsung RM-G1800 (голос) ! Работают на ТВ c 1.03.2020 года !;12,60;МАЛО
+ 3096; Samsung RM-L1598 ! Huayu ! Унив., для Samsung smart TV NETFLIX;1,83;Є
+ 4501; Samsung BN59-01052A  (=13142);2,05;НЕМАЄ
+ 4535; Samsung BN59-01069A (LCD TV)  Huayu ! Huayu ! (=13171) (корп.3);1,90;Є
+;014 SANYO;;
+ 1402; Sanyo 1AV0U10B01900  (TV)  Huayu  ! Huayu !;1,20;НЕМАЄ
+ 1409; Sanyo JXPSC/ JXMRM  (TV)  (=1417) U12;1,10;НЕМАЄ
+ 1413; Sanyo 1AVOV10B31200  (TV)  Huayu  ! Huayu !;1,20;МАЛО
+ 1417; Sanyo RM-580B ! Huayu ! Унив., (TV) кор. JXPSA;1,00;Є
+ 1418; Sanyo RM-632B   (PBOX)  ! Huayu ! Унив., (TV) кор.;0,98;Є
+;015 SHARP;;
+ 1504; Sharp G1059BMSA  (TV);1,00;МАЛО
+ 1507; Sharp G0756CE  (TV)  Huayu  ! Huayu !;0,65;Є
+ 1508; Sharp G0764PE  (TV)  Huayu  ! Huayu !;1,15;МАЛО
+ 15101; Sharp  SHWRMC0115 /LC-40UG7252E/LC-49CFG6001E NETFLIX  (=15102) PN-B;1,98;Є
+ 15102; Sharp RM-L1589 PBOX ! Huayu ! Унив.;2,40;Є
+ 15103; Sharp RM-L1046  (box) ! Huayu ! Унив.;1,20;Є
+ 15105; Sharp SH-V1 с голосовым управлением (=15107 без голоса);10,10;Є
+ 1513; Sharp GA296SА/ GA590SB  (TV)  Huayu  ! Huayu ! (=1552);1,10;Є
+ 1514; Sharp GA074WJSA  (=GA101WJSA)  (LCD TV);1,70;НЕМАЄ
+ 1520; Sharp G1069PESA, G0833PESA  (TV);1,20;НЕМАЄ
+ 1523; Sharp G1077PESA  (=G1042PESA)  (TV);1,15;Є
+ 1525; Sharp G1085PESA, G1084PESA (TV);0,85;Є
+ 1526; Sharp G1133PESA/ G1169PESA/ G1273PESA  (TV)  Huayu  ! Huayu !;1,00;Є
+ 1531; Sharp G1342SA  (TV)  Huayu  ! Huayu !;1,25;Є
+ 1541; Sharp 11UK-12, Medion  (TV)  Huayu  ! Huayu !  два кольца;1,40;Є
+ 1546; Sharp 4031SA, BQS349 (TV);1,00;Є
+ 1547; Sharp GA339WJSA, LC-13H1E, 20SH1E  (LCD TV) PNGx;1,65;МАЛО
+ 1549; Sharp GA520WJSA (=GA574WJSA, GA591WJSA)  (LCD TV) Huayu ! Huayu ! (=1567) PNB;1,50;Є
+ 1552; Sharp RM-638G ! Huayu ! Унив., кор. GA296SA;1,25;Є
+ 1567; Sharp RM-758G ! Huayu ! Унив., кор. GA520WJSA;1,55;НЕМАЄ
+ 1569; Sharp GJ210  LC-1957E/ 2657E/ 3257E/ 26SB25/ 26SH7RU  (LCD TV) PNB;1,60;МАЛО
+ 1579; Sharp, Toshiba RC-1910, LC-32SH130E  (LCD TV) PNB;1,35;Є
+ 1588; Sharp GB012WJSA  (LED TV)  3D (=3026);1,95;НЕМАЄ
+ 1594; Sharp GB005WJSA  (LCD TV)  LC-60LE847U (=3026);1,85;НЕМАЄ
+ 1595; Sharp RM-L1238 ! Huayu ! Унив.;1,15;Є
+ 1596; Sharp RC5112 (LED TV) Huayu ! Huayu !;2,65;Є
+ 1599; Sharp RC4847, Romsat 40F182T2 / 40F189T2 (LCD TV)  Huayu  ! Huayu ! (=3210);1,80;Є
+ 3003; Sharp RM-026G+ ! Huayu ! Унив., кор. G1342SA;1,15;Є
+ 3026; Sharp RM-L1026 ! Huayu ! Унив., (LCD PDP) кор. GA841WJSA;1,85;Є
+ 3081; Sharp RM-L1346 ! Huayu ! Унив., (LCD/LED TV) NETFLIX;1,85;Є
+ 3713; Sharp Aquos LC-32CHE4040E, LC-32CHE6242E, Blaupunkt DH1401053645 (=15101)  P;1,60;НЕМАЄ
+;016 ERGO, ELENBERG, SUPRA, MEREDIAN, DIGITAL;;
+ 1597; Ergo LE32D3, Medion MD 30630, Sharp RC1912 (Orion 22FBT167), Vestel RC1912 (по плате = 1579);1,50;МАЛО
+ 1601; Meredian RC-817, RC-815, RC-816 Shivaki, Techno  (TV) (=2513);1,10;НЕМАЄ
+ 1602; Supra 14N8/ 1202-3  (TV)  Huayu  ! Huayu !;0,80;Є
+ 1610; Shivaki, Trony RC-810/ RC-811, Sitronics PAEX12048C, Record RM-TC, Haier HYF-28D (TV)  Huayu  ! Huayu !;0,70;Є
+ 16102; Elenberg 24-32DH4030 T2, Ergo LE40CT5520AK, Setup, Supra Y-72C3 (STV-LC19T410WL) (LED TV)  Huayu  ! Huayu !;1,71;Є
+ 16104; Ergo LE32ST3500AK, LE55/32CT2500AK Mystery MTV-4324LT2 (=16105);1,70;Є
+ 16104h; Ergo LE32ST3500AK, LE55/32CT2500AK Mystery MTV-4324LT2 (=16105) ! Huayu !;1,90;Є
+ 16105; Ergo LE19CT1000AU   ! HQ ! (замена 16104);1,20;МАЛО
+ 16107; Ergo LE32CT5515AK  (LED) LYIM Huayu ! HQ !;1,20;НЕМАЄ
+ 16108; Ergo 43CU6500AK, AKAI UA45IA124S, GRUNHELM GTV32T2, MANTA 32LHA48L (LED TV)  Huayu ! Huayu !;1,68;Є
+ 16112; Ergo LED55CU6555MC, Elenberg LED40DF5130  (LED)  Huayu ! HQ !;1,30;Є
+ 16113; Ergo LE40CT5030AK, SMART  (LED)  (=16115);1,70;Є
+ 16115; Ergo 32DH3000 MEGOGO/ KT1744-HG2.2 (LED TV) ! Huayu ! (=16113);1,50;Є
+ 16116; Ergo 43DUS6000  (08F7) ! Huayu !;1,85;Є
+ 1617; Supra S-14US30, Hyundai, Erisson, HOF09B  (TV) Huayu ! Huayu !;1,25;НЕМАЄ
+ 1630; Supra, Honda, Orion EN-21613C, (LCD TV);1,00;Є
+ 1641; Supra Rc02-CH, Bravis, Electron  (TV)  Huayu  ! Huayu !;0,80;Є
+ 1645; Shivaki RC-D3-03, Horizont RC-D2-03, SUZUKI  (LCD TV)  Huayu  ! Huayu !;1,40;Є
+ 1654; Saturn TV, Supra RCF3b, (=3042)RC5b, RC6b, RCF2b, RC7b, RCF8b, RC8b, RC21b, RC18b, RC22b  (LCD TV) ! Huayu !;1,70;Є
+ 1656; Elenberg E32Q868A, Supra STV-LC1914W, TVD34, Mystery 1910, Bravis PDP-42720F ! HQ !;1,25;Є
+ 1657; Elenberg 40AF4030/48AF4030/ 32AN4030, Supra Y-72C/ Y-72C1, STV-LC1977WD  P;1,50;НЕМАЄ
+ 1658; Supra Y-72C2, STV-LC1917WD  (LCD TV)  (=1657);1,35;НЕМАЄ
+ 1660; Shivaki/ Akai/ Polar BT0534;0,85;МАЛО
+ 1683; Supra RC2000E02/ E01, RC260JE, Liberton, Meredian RC3000E01/E02( замена 3473, 1940);1,50;Є
+ 1694; Saturn LED32NF, LED40NF, Supra RC25b ( =30114)  007F-1  (LCD TV);1,70;Є
+ 1696; Ergo LE17D5 / 39D3 / LE17M4W ! HQ !;1,40;Є
+ 1697; Shivaki   J-1274;1,35;НЕМАЄ
+ 1698; Ergo LE32V7, DEXP 32B7000B (LED TV)  Huayu  ! Huayu !;1,50;Є
+ 3001; Supra RM-L1042+ ! Huayu ! Унив., кор. RCF3B;1,45;Є
+ 30114; Saturn, Supra  RM-L1595  (PBOX)  ! Huayu ! Унив.,;1,90;Є
+;017 SONY;;
+ 1703; Sony RM-816  (TV+VCR)  Huayu  ! Huayu !;2,00;Є
+ 1704; Sony RM-827S  (TV);1,00;МАЛО
+ 1705; Sony RM-834  (TV)  Huayu  ! Huayu !;0,95;Є
+ 1705x; Sony RM-834  (TV);0,60;Є
+ 1706; Sony RM-836  (TV) (=1707);0,95;Є
+ 1707; Sony RM-839, RM-836  (=RM-883, RM-886)  (TV);1,00;Є
+ 1709; Sony RM-849S (TV);1,05;МАЛО
+ 17100; Sony RM-ED045  (LED TV) (=1781+3D)  Huayu  ! Huayu ! (=1781);1,65;Є
+ 17101; Sony RM-D764 ! Huayu ! Унив., кор. RM-GA015, RM-ED011, RM-ED013, RM-ED016, RM-ED020;1,80;Є
+ 17111; Sony RM-ED047, RM-ED050  (LED TV)  3D (=3008);1,65;Є
+ 17115; Sony RM-ED052/ED053 (замена  3008) B;1,70;Є
+ 17117; Sony RM-ED054 (LED TV) Huayu ! HQ ! (=17122, 3032, 17138) PNB;1,20;Є
+ 1712; Sony RM-870  (TV)  (замена 3012);1,10;Є
+ 17120; Sony RM-ED058  (LED TV)  3D;1,80;Є
+ 17121; Sony RM-ED060  ! Huayu ! (=3008);1,70;Є
+ 17122; Sony RM-ED062/RM-ED054  (LCD TV)  Huayu  ! Huayu ! (=17140, 17138, 3032);1,25;Є
+ 17124; Sony RMT-TX100D NETFLIX  ( замена 3071)  PN-B;1,60;НЕМАЄ
+ 17125; Sony RM-ED061  (LED TV) prowest;1,80;Є
+ 17127; Sony RMT-TX100E  (замена 3071, 3095);2,30;НЕМАЄ
+ 17128; Sony RMT-TX101P DISCOVER  ! Huayu ! (=3071 );1,85;Є
+ 17129; Sony RMT-TX102D NETFLIX  (=3095)  prowest;1,65;Є
+ 17132; Sony RMT-TX100P (LCD TV) (=3071);1,90;Є
+ 17133; Sony RMT-TX300E NETFLIX (=3095) без голосового управления;1,65;Є
+ 17136; Sony RM-ED046  (LED TV) (=17101) ! Huayu !;1,95;МАЛО
+ 17137; Sony RM-L1118  (PBOX) ! Huayu ! Унив., кор.Sony RM-934;1,55;Є
+ 17138; Sony RM-L1615   PBOX ! Huayu ! Унив., кор. (=17140);1,45;Є
+ 17139; Sony RMF-TX310E  Bluetooth  голосовое управление ! Huayu !;9,00;Є
+ 17140; Sony RM-L1715 PBOX ! Huayu ! Унив., кор.;1,55;Є
+ 17141; Sony RMF-TX500E (замена 17142, 17144);0,00;НЕМАЄ
+ 17142; Sony RM-L1690 ! Huayu ! Унив., кор. RMF-TX500U;2,60;Є
+ 17143; Sony RM-L2500  Унив., кор.RMF-TX500E (=17142)  LCD TV;2,70;Є
+ 17145; SONY RM-L1822  інфрачервоний корп. RMF-TX500E =17142;2,70;Є
+ 17146; SONY RM-L1823  інфрачервоний корп.RMF-TX520E;2,60;Є
+ 17149; Sony RMF-TX520P  Bluetooth  голосовое управление ! Huayu !;10,50;МАЛО
+ 1717; Sony RM-GA005  (LCD TV) (=1719, 1754);1,70;НЕМАЄ
+ 1719; Sony RM-ED005, RM-ED007, RM-ED008  (LCD TV)  Huayu  ! HQ ! (= 1754);1,40;Є
+ 1720; Sony RM-ED009  (LCD TV)  ( =1755 );1,27;Є
+ 1725; Sony RM-887  (=RM-889)  (TV)  Huayu  ! Huayu !;1,50;Є
+ 1730; Sony RM-ED007  (LCD TV) (=1719, 1754);1,50;Є
+ 1736; Sony RM-W103 (RM-W100, RM-W104) (TV) ! Huayu ! (=1765, 1741);1,18;Є
+ 1739; Sony RM-934  ( RM-932 ) (TV+DVD)  Huayu  ! Huayu !;1,55;Є
+ 1741; Sony RM-GA002  (TV)  Huayu  ! Huayu !  (замена 1765);1,15;НЕМАЄ
+ 1743; Sony RM-932/RM-947 (TV+DVD+VCR)  Huayu  ! Huayu ! (замена 1739);1,55;Є
+ 1754; Sony RM-618A ! Huayu ! Унив., кор. RM-GA009/RM-GA005/RM-ED005/RM-ED008 (LCD TV);2,05;НЕМАЄ
+ 1755; Sony RM-715A ! Huayu ! Унив., (LCD TV) кор. RM-ED009;1,52;Є
+ 1757; Sony RM-ED011W  Bravia  (=17101);1,50;Є
+ 1762; Sony RM-ED013  Bravia (=17101);1,80;НЕМАЄ
+ 1763; Sony RM-D637 ! Huayu ! Унив., (LCD TV+DVD) кор. RM-W105;1,20;Є
+ 1765; Sony RM-191A+ ! Huayu ! Унив., кор. RM-W100/ RM-W103/ RM-W104;1,10;Є
+ 1776; Sony RM-ED014 (=3025);1,40;НЕМАЄ
+ 1780; Sony RM-ED022 (=3024);1,40;НЕМАЄ
+ 1781; Sony RM-ED029  (LED TV) (=3024) PNG;2,45;МАЛО
+ 1783; Sony RM-ED034/ 035/ 036/ 022  3D Bravia  (=3024);1,80;НЕМАЄ
+ 1784; Sony RM-ED035/ 022/ 036  (LED TV)  Bravia (=3024);2,35;МАЛО
+ 1788; Sony RM-ED041/ RM-ED044/ RM-ED045 3D  (=1789) PNG;1,60;Є
+ 1789; Sony RM-ED044  (LED TV)  3D  (=1788);1,75;Є
+ 1791; Sony RM-GA019, RM-GA018 Bravia  (LED TV);1,95;МАЛО
+ 3008; Sony RM-L1165 ! Huayu ! Унив., 3D кор. RM-ED047/RM-ED050;1,65;НЕМАЄ
+ 3009; Sony RM-D998 ! Huayu ! Унив., кор RM-ED030, RM-ED031, RM-ED032, RM-ED033  (LCD TV) P-box;1,65;Є
+ 30116; Sony RM-L1351 ! Huayu ! Унив., кор. RMF-TX310E;1,70;НЕМАЄ
+ 3024; Sony RM-D959 ! Huayu ! Унив., кор. RM-ED045;1,65;Є
+ 3025; Sony RM-996A ! Huayu ! Унив., (LCD TV) в кор.Sony RM-ED014;1,55;Є
+ 3031; Sony RM-L1090 ! Huayu ! Унив., кор. RM-ED045 (=3024);1,25;Є
+ 3032; Sony RM-L1185 ! Huayu ! Унив., кор. RM-ED054 (=17138);1,50;Є
+ 3071; Sony RM-L1275 ! Huayu ! Унив., (TV) кор. как RMT-TX101D (=3095);1,90;Є
+ 3084; Sony RM-D1065 ! Huayu ! Унив., (HT) Sony System;1,00;Є
+ 3095; Sony RM-L1370 ! Huayu ! Унив., корп. RMT-TX300E (=3071);1,60;Є
+;018 RAINFORD, VESTEL;;
+ 1636; Rainford RC-1CE3, Supra 1CE3, Mystery MTV-1426  (TV)  Huayu  ! Huayu ! (=1829);0,85;Є
+ 1803; Rainford RC-930, BS-910/ SEG, Rainford RC-223  (TV)  Huayu  ! Huayu !;1,35;Є
+ 1804B; Rainford RC-2040, Vestel, Shivaki 11UV19-2 (TV)  black  Huayu  ! Huayu !;1,50;Є
+ 1804W; Rainford RC-2040, Vestel, Shivaki 11UV19-2 (TV) большой серый  Huayu  !Huayu !;1,30;НЕМАЄ
+ 1806; Rainford, Vestel RC-2440  (TV) (=1811) P;1,30;Є
+ 1807; Rainford RM 112, RC-1123702/00,  N NEXT  (TV)  Huayu  ! Huayu !;1,20;Є
+ 1808; Rainford RC-1030  (TV) большой;0,95;Є
+ 1811; Rainford RC-1045  (TV)  (=1816)   prowest;1,45;Є
+ 1814; Rainford Oval 9012 RC-224  (TV);0,75;Є
+ 1816; Rainford RC-1241  (TV) (=1811) PNG;1,10;Є
+ 1818; Rainford 8093 000/ 8081 E00  (TV)  Huayu  ! Huayu !;1,15;Є
+ 1819; Rainford, Vestel RC-1940  (TV)  mini (=1820);1,05;Є
+ 1820; Rainford Vestel SF-148, RC3040  , Saturn ST-1422, Electron  (TV);0,85;Є
+ 1821; Rainford, Vestel RC3040  (TV)  (=1820)  ! Huayu !;1,00;Є
+ 1823; Rainford TV-3740C/Vestel RC-5010, RC-1548/AEG, RC-5010-11  (LCD TV) ! HQ !;1,40;Є
+ 1824; Rainford PT92-55E, PT92-70E Vestel  (TV);1,00;НЕМАЄ
+ 1829; Rainford RC-1CE3  (TV) (=1636);0,85;Є
+ 1830; Rainford HX-T07, Electron Rc02-R6+, Meredian  (TV);0,80;Є
+ 1832; Rainford RC-P1CE3, Meredian (TV) ! HQ !;1,10;Є
+ 1833; Rainford RC-332CLR, TFT2668SAC, TFT3268SAC  (TV);0,70;Є
+ 1840; Vestel, Telefunken RM-L1389 ! Huayu ! Унив.,;1,35;Є
+ 1841; Vestel RM-L1385 ! Huayu ! Унив.;1,65;Є
+ 30107; Vestel, Telefunken RM-L1526 ! Huayu ! Унив.,;2,80;Є
+ 3072; Vestel RM-L1200 ! Huayu ! Унив., (TV, LCD, LED);1,60;Є
+;019 THOMSON;;
+ 1902; Thomson RCT-100  (TV)  Huayu  ! Huayu !;1,10;Є
+ 1904; Thomson RCT-3004 (RCT-3003) (TV)  Huayu  ! Huayu !  (замена 1901);1,25;Є
+ 1908; Thomson RCT-311TAM1 (TV)  ! Huayu !;1,05;Є
+ 1909; Thomson 29DMV88KH, TCL  (TV);0,80;Є
+ 1910; Thomson RCT-111TA1G  (TV)  Huayu ! Huayu !;1,30;Є
+ 1912; Thomson RCT-116TA1G  (TV)  Huayu  ! Huayu !;1,70;Є
+ 1914; Thomson RCT615TDM1  (TV+DVD+VCR+SAT+AUX)  (оригинал);1,60;МАЛО
+ 1924; Thomson RC1113022, RC1113020,  RC1113024/ 3139/ 238/ 16651 (29NE64)  (TV)  Huayu  ! Huayu !;0,85;Є
+ 1928; Thomson RC1994301/ RC1994906 (LCD42M61N20), TCL 32E92NH22C (LCD TV+DVD)  Huayu  ! Huayu !;2,30;Є
+ 1929; Thomson T6-0Q0036-H050X, TCL 20B10F50, West  (LCD TV)  Huayu  ! Huayu !;1,40;Є
+ 1933; Thomson RC1994925/ 32HR3230, TCL 32A12H, TCL 1994939  (LCD TV);1,65;Є
+ 1940; Liberton RC3000M13, Thomson RC3000M11, TCL RC3000M13  (LCD TV) ! HQ ! (=3971 унив);1,80;НЕМАЄ
+ 1941; Thomson RM-D811 ! Huayu ! Унив., кор. RCT615TDM1;1,10;Є
+;020 TOSHIBA;;
+ 2005; Toshiba CT-9507  (=CT-9737, CT-9450, CT-9565)    (TV)  Huayu  ! Huayu !;0,85;Є
+ 2011; Toshiba CT-9782  (TV)  Huayu  ! Huayu !;0,90;Є
+ 2017; Toshiba CT-9922  (TV)  Huayu  ! Huayu !;0,90;Є
+ 2017x; Toshiba CT-9922  (TV);0,75;Є
+ 2018; Toshiba CT-90229  21LSR17/23/28,  21LSU17X/23X/28X  (TV)  Huayu  ! Huayu ! (=2043);1,20;Є
+ 2018x; Toshiba CT-90229, 21LZR17/23/28,  21LZU17X/23X/28X  (TV);0,80;НЕМАЄ
+ 2019; Toshiba CT-90253/CT-90126  (=2038);1,00;Є
+ 2020; Toshiba CT-9851 (TV) (=2017);0,95;Є
+ 2021; Toshiba CT-9858 /CT-9881/ CT-9880  (=CT-9992)  (TV);0,70;Є
+ 2030; Toshiba CT-90119/CT-90163  (TV)  Huayu  ! Huayu ! (=2045);1,05;Є
+ 2039; Toshiba CT-893/ CT-90279/ CT-889  (LCD TV+DVD)  Huayu  ! Huayu !;1,20;Є
+ 2042; Toshiba CT-90198  (LCD TV);0,65;МАЛО
+ 2044; Toshiba RM-D759 ! Huayu ! Унив., кор. CT-90287;2,50;Є
+ 2045; Toshiba RM-162B ! Huayu ! Унив., кор. CT-90119;1,05;НЕМАЄ
+ 2047; Toshiba CT-90326/CT-90329/90336) ! Huayu !  (=3022 );1,43;Є
+ 2051; Toshiba CT-90298  (LCD TV);1,70;НЕМАЄ
+ 2064; Toshiba CT-90400  (TV) P;1,05;Є
+ 2065; Toshiba CT-8023  (LCD TV+DVD)  Huayu ! Huayu !;1,35;Є
+ 2067; Toshiba CT-90272  (LCD TV+DVD+STB)  Huayu  ! Huayu ! (= 2068);1,80;Є
+ 2068; Toshiba RM-D809 ! Huayu ! Унив. кор.CT-90272;1,55;Є
+ 2069; Toshiba CT-90345  (LED TV)  Huayu  ! Huayu !;2,45;Є
+ 2081; Toshiba SE-R0329  (LCDTV+DVD)  Huayu  ! Huayu !;1,60;Є
+ 2087; Toshiba CT-90386 (LCD TV) ! Huayu ! (=3022, 2047);2,00;НЕМАЄ
+ 2088; Toshiba CT-32F2 ! Huayu !;1,90;Є
+ 2090; Toshiba RM-L1106  (PBOX) ! Huayu ! Унив., (LCD TV);1,95;Є
+ 2091; Toshiba RM-L1625  (PBOX) ! Huayu ! Унив., (LCD TV);2,40;Є
+ 2092; Toshiba RM-L1658  (PBOX) ! Huayu ! Унив., корп. Toshiba CT-8528;2,70;Є
+ 2093; Toshiba RM-L1328 ! Huayu !;2,20;Є
+ 2094; Toshiba CT-8528 (CT-8533)  (LCD TV) ! Huayu !  =2092;0,00;НЕМАЄ
+ 3021; Toshiba RM-L1178 ! Huayu ! Унив., (LCD TV)  3D кор. CT-90405/CT-90388;1,35;Є
+ 3022; Toshiba RM-L890 ! Huayu ! Унив.,(LCD/LED/TV) кор. CT-90326;1,50;Є
+ 3067; Toshiba RM-L1278 ! Huayu ! Унив., 3D кор. CT-8040;2,50;Є
+;021 Пульты для DVD;;
+ 2102; DVD Elenberg RC-D010E, Supra, Hyundai 2430 2445 2450 D80009 код 00FB Huayu  ! Huayu !;0,45;НЕМАЄ
+ 21102; DVD BBK RC26-02R/ RC26-05R USB/ RC26-12/ RC116/ RC118, DV216SI, 917SI USB Huayu  ! Huayu !;1,55;НЕМАЄ
+ 2113b; DVD Pioneer, Panasonic, Deza DA-02 Huayu  ! Huayu !;0,45;Є
+ 2114; DVD Orion DVD3 838/ 837/ 205/ 841, Sven HD1040,  Akai P6842/  P6342/  P6840, Sitronics 4311 Huayu  ! Huayu !;0,50;Є
+ 2122; DVD NEXON 4350, TCL, Saturn ST-1706, West 5132/ 5133,  Bimatek D-1152 VKP Huayu  ! Huayu !;0,45;МАЛО
+ 2131; DVD MUSTEK RC-MTK Huayu  ! Huayu !;0,50;МАЛО
+ 2135; DVD TCL RD-8006T/ RD-8010, Saturn Huayu  ! Huayu !;0,50;МАЛО
+ 2137; DVD Rainford 398/ 318/ 3119/ 320A, Nash 8202  D80010  Huayu  ! Huayu !;0,30;МАЛО
+ 2145; DVD Elenberg R802E, Meredian R706, Supra R802E, Hyundai 3629/ 5015 Huayu  ! Huayu !;0,10;МАЛО
+ 2146; DVD BBK RC 26-01R/ RC116/ RC118  (=21102);1,35;Є
+ 2146D; DVD BBK RC26-05R USB/ BBK RC26-02R USB/ RC26-12/ RC116/ RC118 Huayu  ! Huayu !  (=21102);1,60;НЕМАЄ
+ 2146n; DVD BBK RC 26-01R не оригинальный корпус;0,50;Є
+ 2147; DVD Rainford 4100/ 4102,  Polar SF091 D80011;0,30;Є
+ 2151; DVD Elenberg R601E2  ( DVDP-2410);0,70;НЕМАЄ
+ 2165; DVD Rainford KM-118, DVD-3300;0,95;МАЛО
+ 2188; DVD DEX DVP-155/ DVP-171/ DVP-181  Huayu  ! Huayu !;0,95;МАЛО
+ 2407; BBK RC 073-01R  (HT) Huayu  ! Huayu ! (оригинальный корпус);1,60;Є
+ 24102; DVD Saturn ST-DV77XX;1,00;НЕМАЄ
+ 24109; DVD DEX DVP-274;0,55;МАЛО
+ 24110; DVD DEX DVP-280;0,55;МАЛО
+ 2435; DVD Hyundai H-5041-N, Elite, Supra, Alpari DP702;0,50;МАЛО
+ 2436; DVD Hyundai H-5049-N, Elite, Supra;0,45;МАЛО
+ 2482; Elenberg HR-D66E ! Huayu ! Унив., (DVD) копус Elenberg RC-D010E вариант-2;0,95;Є
+ 2485; Elenberg HR-D699 ! Huayu ! Унив., (DVD) копус DVDP2404;0,50;Є
+ 2489; DVD Bravis DVD-560/ 607N, Shivaki;0,60;МАЛО
+;022 MYSTERY;;
+ 2201; SUPER SP-600, 9565, MIYOTA M-TV-6660R, GALANT, OPERA для портативного/автомобильного (LCD TV);0,50;Є
+ 2225; Konka, Jinlipu CD3728B, CD3730, Opera OP-3728B, Siesta J-3798A TV;1,05;МАЛО
+ 2235; Premiera RTR-830TX, Shivaki TV-807WD, ERGO, VITEK, OPERA  для портативного/автомобильного (LCD TV);0,55;Є
+ 2273; Mystery KT1045, MTV-2622LW  (LCD TV) PNB;1,30;Є
+ 2274; Mystery MTV-3210W, Ergo, Elenberg, Thomson (замена 1696)  (LCD);1,45;Є
+ 3158; Mystery MTV-3224LT2, BLAUPUNKT, Sensor SLE19F55M4/SLE22F55M4  (LCD TV) Huayu  ! HQ !;1,33;Є
+;023 ПРОШИВАЕМЫЕ;;
+ 2323; Пульт прошиваемый Longer  CLR79815-E4 USB / IR Prog (4 в 1) (TV+DVD+VCR/SAT+AUX);3,60;НЕМАЄ
+ 2324; Пульт прошиваемый CHANGER (4 в 1) (TV+DVD+VCR/SAT+AUX);4,50;НЕМАЄ
+ 2325; Пульт прошиваемый CHANGER (DVD);2,75;НЕМАЄ
+;025 START, WEST, ELECTRON-1, KONKA,PATRIOT, ROLSEN;;
+ 2502; Rolsen K10N-C5, Akira K10N-C19, West, Changhong ! Huayu !;1,20;Є
+ 2503; Rolsen K11F-C9, West, Changhong  (TV);1,00;Є
+ 2504; Rolsen K10B-C1, West, Changhong  (TV);0,80;Є
+ 2505; Rolsen KEX1D-C55/-C6/-C22/-C23/-C8 (=2525, 2509) P;1,15;Є
+ 2509; Digital KEX1D-C82, KEX1D-C35  (=2525);1,15;Є
+ 2512; Start 54D5A, Konka 1482, Jinlipu  (TV) ! Huayu !;1,10;Є
+ 2513; Start NP-41A  (замена 2527, 1035);1,25;НЕМАЄ
+ 2515; Rolsen WH55A, Bravis P01S-N, Orion SPP2922FL, SPP2920 (замена 1035);1,25;МАЛО
+ 2516; Konka-Opera1428, KONKA CTV-1429, TA8803, TA-8831 (TV) (=1610);0,95;МАЛО
+ 2518; Konka 52K7A  (TV)  Huayu  ! Huayu !;0,75;Є
+ 2520; West, Changhong K11F-C15/ K11F-C14, Digital  (TV)  Huayu  ! Huayu ! (=2503);0,85;Є
+ 2523; Rolsen, West K10N-C1/ K10N-C12, Electron KEX2C-C4(=2525);0,90;Є
+ 2525; Electron KEX2D-C6, Rolsen  (TV)  (=2523, 2510, 2531, 2538, 2509);1,25;НЕМАЄ
+ 2526; Patriot RC02-35  (=3420);0,95;Є
+ 2527; Patriot RC02-36, KM1438  (TV)  Huayu  ! Huayu ! (замена 2513, 1035);1,15;Є
+ 2530; Start P81, Digital-Konka, Rotex (=2517, 3420);1,05;Є
+ 2532; Konka, Jinlipu, Opera OP-3728B (OSD+GAME+PP) LG 55K2  (TV);0,95;Є
+ 2534; West K18F-C16, K18F-C24, Digital K18F-C41, Electron, Orion немцы D81000  (TV);0,85;Є
+ 2547; DMTECH TM FOXTROT, PRESTIGIO, Rolsen LC03-AR028A  (LCD TV)  Huayu  ! Huayu !;1,60;МАЛО
+ 2549; West EN-21624C  (LCD TV);0,70;НЕМАЄ
+ 2553; Rolsen RM-563BFC ! Huayu ! Унив., кор. K10N-C5;1,10;НЕМАЄ
+ 2559; Digital DL-32J85/ DL-42J85/ DL-32J82/ DL-32J76/ DL-42J82/ DL-19J80  (LCD TV);1,15;МАЛО
+ 2562; Patriot KM-1428/ KM-1429 микросхема 9012  (TV);0,95;Є
+ 2568; Hisense EN-31603A, BBK EN-31603B, Rolsen EN-31603R  (LCD TV)  Huayu  ! Huayu !;1,50;Є
+ 2576; Digital DLE-4011, DLE-3210  (LED TV);1,35;МАЛО
+ 2579; Digital DLE-3221T LED TV  Huayu  ! Huayu !;1,50;Є
+ 3137; West TU2145/2144/2140/2912, Hyundai, Meredian, Changhong (TV);1,20;Є
+;026 BEKO;;
+ 2601; Beko RC-613311  (TV);1,55;МАЛО
+ 2603; Beko RC-46111/ TH-492/ 12:1 sleep  (TV)  ! Huayu !;1,00;Є
+ 2604; Beko RC-7SZ206  (=2605);1,40;НЕМАЄ
+ 2605; Beko TH-493 12.5 menu  (TV)  Huayu  ! Huayu !;1,60;Є
+ 2611; Beko RC8091, RC5B718F 100Hz  (TV) Huayu  ! Huayu !;1,25;МАЛО
+;027 УНИВЕРСАЛЬНЫЕ;;
+ 2702; Унив. ! обучаемый ! RM-L987E ! Huayu ! (TV SAT CD VCR A/C) с дисплеем;5,00;Є
+ 2707; Унив. HR-E877 ! Huayu ! Green (TV) инстр. на русском;1,35;Є
+ 27100; Унив. RM-L1236  ! Huayu ! (LCD/LED TV)  HD 3D ! Huayu ! Huayu;1,90;Є
+ 27102; Унив. iHandy CRC1908  3 in 1 водонепроницаемый;2,50;Є
+ 27105; Унив. URC1500 ! Huayu !  (LCD LED TV);1,50;Є
+ 27108; Унив. RM-L1316 ! Huayu !  (MULTI BRAND);1,65;Є
+ 27112; Унив. URC1511 ! Huayu !  (LCD LED TV);1,85;НЕМАЄ
+ 27113; Унив. HUAYU RM-P1375 универсальный для проекторов;1,70;Є
+ 27114; Унив. RM-L1256+  PBOX  ! Huayu !  (LCD LED TV);1,65;МАЛО
+ 27115; Унив. iHANDY CRC0447 (DVB-T2+TV)  корп T62A;2,00;Є
+ 27116; Унив. RM-L1506  PBOX  ! Huayu !  (LCD LED TV);1,50;НЕМАЄ
+ 27117; Унив. RM-L1280 SMART+AMAZON+NETFLIX универ. под разные бренды;1,50;НЕМАЄ
+ 27121; Унив. HUAYU URC1699;2,70;Є
+ 2719; Унив. ! обучаемый ! SRM-403E Chunghop;3,30;Є
+ 2721; Унив. ! обучаемый ! HL-1340E 3 in 1  ! Huayu !;2,40;НЕМАЄ
+ 2738; Унив. ! обучаемый ! RM-L810 ! Huayu ! (TV+SAT+AUX+DVD+VCR)  10 in 1;1,80;Є
+ 2747; Унив. R-TV3 HUAYU RM-L1382;1,05;Є
+ 2758; Унив. RM-557B ! Huayu !  (LCD LED TV);0,60;МАЛО
+ 2759; Унив. RM-L900 ! Huayu !  (LCD LED TV);1,00;Є
+ 2767; Унив. RM-L1050 ! Huayu !  (LCD+DVD+BD);1,60;Є
+ 2770; Унив. RM-L1130+12  ! Huayu !  (LCD LED HDTV);1,85;Є
+ 2775; Унив. RM-L1098 ! Huayu !  (LCD LED TV) без коробки;2,15;Є
+ 2776; Унив. HUAYU RM-L1120+12  (LCD LED HDTV);2,02;Є
+ 2777; Унив. RM-L1195+ ! Huayu ! (LCD HDTV) (весь китай, корп. AA59-00581A (ин.на рус.яз.с цв.фото));1,65;НЕМАЄ
+ 2783; Унив. SAT1111+F ! Huayu ! (SAT+T2+TV)  3 в 1;1,25;НЕМАЄ
+ 2784; Унив. RM-D1155+10 (DVB-T2+TV) ! Huayu ! с обучаемым блоком для TV (=2792);1,60;Є
+ 2786; Унив. MAK BASIK (3 in 1)  оригинал Польша;1,65;Є
+ 2791; Унив. RM-D1266+D (SAT+ DVB-T2+TV)  ! Huayu ! с обучаемым мини блоком для TV;1,75;Є
+ 2792; Унив. RM-D1258 VER.2022 (DVB-T2)  ! Huayu !;1,55;Є
+ 2793; Унив. RM-D1312 ! Huayu !  (TV/LCD/LED+DVB-T2+SAT+DVD+BD) подходит на все в таком корпусе!;1,65;Є
+ 2796; Унив. IHandy LR-LCD 707E (LCD/LED TV) под китайские бренды;1,12;Є
+;028 ДЛЯ КОНДИЦИОНЕРОВ;;
+ 2802; A/C унив. K-2E MULTI BRAND ! Huayu ! (5000 in 1);3,10;НЕМАЄ
+ 2803; A/C унив. K-3E MULTI BRAND ! Huayu ! (5000 in 1) русская инструкция;3,10;НЕМАЄ
+ 2805; A/C унив. K-1038E+L MULTI BRAND ! Huayu ! (1000 in 1) белые, инструкция на русском;2,55;НЕМАЄ
+ 2809; A/C унив. KT-9018 MULTI BRAND ! Qunda !  (4000 in 1) белые ! оригинал !;3,10;НЕМАЄ
+ 2810; A/C унив. Q-1000E MULTI BRAND ! Huayu ! (1000 in 1);2,80;НЕМАЄ
+ 2816; A/C унив. KT-e08 MULTI BRAND ! Qunda ! (6000 в 1) ! Оригинал !;3,10;НЕМАЄ
+ 2823; A/C унив. SAMSUNG HUAYU K-SA 1089;2,80;Є
+ 2836; A/C унив. Mitsubishi (9-12);2,40;Є
+ 2844; A/C унив. PANASONIC 15-12-09 (=2843,2821);1,60;Є
+ 2857; A/C унив. GREE YT1F;2,84;Є
+ 2864; A/C унив. SATURN YKR-F/002, YKR-F/001;3,40;НЕМАЄ
+ 2867; A/C унив. YORK K-YK 1338 ! Huayu !;2,65;Є
+ 2868; A/C унив. MITSUBISHI K-MB 1550 ! Huayu !;2,50;Є
+ 2869; A/C унив. MULTI BRAND K-6200  ! Huayu !;4,25;НЕМАЄ
+ 2878; A/C унив. MULTI BRAND K-6100  ! Huayu !;4,70;Є
+ 2879; A/C унив. DAIKIN K-DK 1339  ! Huayu !;2,90;Є
+ 2881; A/C унив. Huayu K-GR1355 GREE  Сooper&Hunter (C&H);2,60;Є
+ 2882; A/C унив. CARRIER K-CR 1519  ! Huayu !;2,35;Є
+;029 ELECTRON-2, HORIZONT, ВИТЯЗЬ, RUBIN;;
+ 2903; Philips SAA3010T  (TV)  Huayu  ! Huayu !;0,85;Є
+ 2907; Philips Bp 6  (TV)  Huayu  ! Huayu ! (=2914);1,35;Є
+ 2912; RC-4 М с синей крестовиной  (TV);0,90;Є
+ 2914; RC-5 лодочка  (TV)  Huayu  ! Huayu !;0,70;Є
+ 2915; Витязь, Горизонт RC-5, VITYAS  (TV);0,85;Є
+ 2916; Horizont RC 6-7  (TV)  Huayu  ! Huayu !;1,60;Є
+ 2919; Rubin, Горизонт RC-7  (=2915)  prowest;1,35;Є
+ 2923; Electron, Rekord G1 (TV) Huayu ! Huayu !;0,90;Є
+ 2924; Витязь RC-6-1, ПДУ-10  (TV) (=2915);1,30;Є
+ 2924h; Витязь RC-6-1, ПДУ-10  (TV)  (=2915)  ! Huayu !;1,70;Є
+ 2926; Electron, Digital, West С2113S, CS2119, CS2130, Alpari,  Akira ACH-P-2  (LCD TV)  Huayu  ! HQ !;1,20;Є
+ 2927; Electron, Digital, West, Alpari T-81100  (TV+TXT) PR;1,25;Є
+ 2937; Horizont RC 7-7  (TV) PNGx;1,55;Є
+ 2940; Electron RC-GK22G1, Akira, VR CT-21VUAS-G  (TV);1,00;Є
+ 2941; Horizont RC 7-8  (TV)  Huayu  ! Huayu !;0,80;Є
+ 2942; Akira KLC5A-C12, Xoro, Electron GK23J2C1, Sitronics RK41A Huayu  ! Huayu !;0,70;НЕМАЄ
+ 2945; Electron RC-C18, Alpari, Digital, Saturn, West, Akira GRK34E-C56  81101 (TV)  Huayu  ! Huayu !;1,30;МАЛО
+;031 BBK, ELENBERG, SMART, WEST, DEX;;
+ 2110; BBK LT115 BBK RC1951, RC1524 (=2140);0,95;НЕМАЄ
+ 2140; BBK LT121, LD1913SU, LD2213SU (TV+DVD)  B;1,60;Є
+ 3101; Vidimax RC-3004, AEG, Akai, Amcol, Clatronic  (TV);1,45;МАЛО
+ 3109; BBK EN-21610, LT2614, Akira FH07H, Sitronics EN-21610, Rolsen EN-21610, Daewoo EN-21635  (LCD TV)  Huayu  ! Huayu !;1,50;Є
+ 31103; ELENBERG 48DF5030, LIBERTY, AKAI LES-48X87WF ! Huayu !;1,65;Є
+ 3128; Meredian LCD-3010, Philips RC1205B (замена 1579);1,10;НЕМАЄ
+ 3131; BBK RC-1902, LT1526/ 1902S/ 1918S/ 1928S, Shivaki N2001508  (LCD TV)  Huayu  ! Huayu !;1,55;Є
+ 3142; BBK RC-1529/ Mystery TC1860F, MTV1907, Supra LC-3204W (=3152) (LCD )  B;1,60;Є
+ 3146; DEX LE-1970/ LE-1980/ LT-2212/ LT-3240/ LT-3251/ LE-3245  (LCD TV);1,55;Є
+ 3147; DEX  LT-2220/ LT-2200/ LT-2611/ LT-3211/ LT-3250  (LCD TV);1,50;Є
+ 3151; BBK RC-2603, RC3704, Sanyo PRIMA  (LCD TV)  Huayu  ! Huayu !;1,55;Є
+ 3152; BBK RC-3229, Mystery KT6949M, TV-1911LW, MTV-1914LW, MTV-3207W  (LCD TV) (Huayu !;1,65;НЕМАЄ
+ 3170; BBK RC-LEM101  (LED TV)  ! Huayu !;2,20;Є
+ 3188; Elenberg 32AH4230 (LED TV)  Huayu  ! Huayu !;1,50;Є
+ 3191; Elenberg 32DH4430, Manta LED320M9 (LED+T2)  Huayu ! HQ !;1,25;Є
+ 3193; Elenberg 32DH5330, 55ULES82T2M ! Huayu !;1,70;Є
+ 3198; Elenberg 32DH4330, Harper 42F660T LCD TV Huayu  ! HQ !;1,40;Є
+ 3199; SMART 43FHDT2S2SM8-S ! Huayu !;2,30;НЕМАЄ
+;032 ROMSAT, MANTA, VINGA, MIRTA;;
+ 1836; Romsat 43F350T2, GoGEN, Funai, Grundig (=1842, 30105);1,45;Є
+ 1842; Romsat 43F350T2, Funai, Grundig, Vestel  ! Huayu ! Унив., (LCD/LED/HDTV);1,40;Є
+ 30105;  Vestel RM-L1390 ! Huayu ! Унив., =1842;1,65;Є
+ 31102; ROMSAT 32HH1830/ AL46D (LCD TV) ERISSON/ DNS/DEXP/ORION/ FUSION;2,15;Є
+ 3125; MANTA, Nokasonic LCD 838, DEX LT1501/ 1502, 22E1F, 2407, 2607, 3201 LE2200, Hyundai  (LCD TV);1,00;НЕМАЄ
+ 3201; MANTA LED9320E1S, TDLex  LE-32Z1T2 Huayu  ((= по плате 2963, 2957, 3309);1,25;НЕМАЄ
+ 3202; ROMSAT 32HK1810T2/43UKS1810T2 Huayu  !Huayu !;1,60;НЕМАЄ
+ 3210; ROMSAT 40F182T2, 40F189T2 (LED TV)  ! Huayu ! (=1599);1,80;НЕМАЄ
+ 3215; VINGA S43FHD20B/L40FHD22B/S55UHD20B/S75UHD20G/S65UHD20B/E55UHD20B, Satelit 24H9100T(=3716);1,80;Є
+ 3217; OZONE HD 19HN82T2 (LCD)  Huayu ! HQ !;1,25;Є
+ 3220; VINGA L43FHD20B, M50UHD20G, Satelit 24H9100T, Sensor SLE40F11/SLE43F12/SLE43F12 LCD TV ! HQ !;1,30;НЕМАЄ
+ 3221; HOFFSON A43FHD100T2S, ROMSAT32HX1850T2, AKAI P;1,95;НЕМАЄ
+ 3486; ROMSAT 24H0052, 32H0082T2 / LES-65B47M Huayu  ! Huayu !;1,90;Є
+ 3494; ROMSAT 22-32FMC1720T2;1,40;Є
+ 3611; MANTA LED93205 / LED5003 , Telefunken TF-LED28S48T2 (LED) ! HQ !;1,20;МАЛО
+ 3612; MIRTA LE342A6F (LED TV) ! Huayu !  Huayu;1,65;Є
+;033 XIAOMI, STRONG, EUROSKY, LUXEON;;
+ 2508; Elite, West TC9012-01S-N, HOB026 Akita  (TV)  Huayu  ! Huayu !;0,65;МАЛО
+ 2573; LUXEON  LED3213/ LED2313/ LED1911/ LED2311, DEX LE3275,(=2955);1,65;НЕМАЄ
+ 3309; ROMSAT/ONKYO LED50UHD400ONST2, SATURN LED40FHD500UST2  (= по плате 2957, 2963, 3193, 3309, 31103);1,70;НЕМАЄ
+ 3310; LEGEND ED20DF-01/SAMSUNG/LG  L42/L32 LED корп Y-72C  B;1,85;Є
+ 3311; EUROSKY TV E32LHRT2C Huayu ! HQ ! (08F7);1,35;Є
+ 3312; XIAOMI XMRM-00A for Mi TV 4X 4K 4S, Mi TV Box S, Mi TV Stick box (MI-V1);7,30;НЕМАЄ
+ 3314; XIAOMI XMRM-006 FOR MI BOX S Bluetooth+Voice ( MI-V2 );7,90;Є
+ 3315; XIAOMI for Mi TV ! Huayu ! Унив., IR RM-S1;1,40;НЕМАЄ
+ 3319;" XIAOMI for Mi TV 4A-32""-43"" 4A 4S 4X 4K 4S  XMRM-007";6,80;Є
+ 3321; XIAOMI XMRM-010 BLUETOOTH з голосовим керуванням;10,90;НЕМАЄ
+ 3322; XIAOMI BT-MI01 Унив.;5,80;НЕМАЄ
+ 3487; Strong 4003 24HX4003, 32HX4003, 40FX4003/ SENSOR;2,00;НЕМАЄ
+;034 BRAVIS-2, GRUNHELM, LIBERTON, CHINA TV,;;
+ 2955; Liberton EP-22, Bravis,Horizont RC-E23, Orion LCD2623 (=1043 (95%));1,70;НЕМАЄ
+ 2957; Bravis LED-3228/ LED-3238 (=0227, 2963, 3201, 3309) PNB;1,60;Є
+ 2963; Bravis LED-24D1900/Romsat 50UX1850T2/Mystery MTV-4332LT2/SATURN (= 2957,0227, 3201, 3309);2,25;Є
+ 3403; Hyundai 56M2-901, 56M2-902, 5Z51-902, SUPER KR-05  (TV);0,95;Є
+ 3409; Grol RS09-M301, RS09-M351, RS09-MS33  (TV);0,65;Є
+ 3410; Bravis P01S-N (TV1516)  (TV)  Huayu  ! Huayu !;0,80;Є
+ 34101; CHANGHONG RM-L1718 ( BRAVIS UHD-50M8000) ! HUAYU ! универ.;2,60;Є
+ 34102; GRUNHELM, BRAVIS, AIWA RM-L1713 ! HUAYU ! универ.;2,00;НЕМАЄ
+ 34103; Bravis LED-32/43/H7000, UHD-32/50M8000  =34101;2,40;Є
+ 3411k; China TV (Daewoo, WEGA, LG) корпус Konka HX55K8  (TV)  Huayu  ! Huayu !;0,75;Є
+ 3411S; China TV  XU-5Z51S  (TV)  корпус Sharp P;1,00;Є
+ 3412G; Hyundai  BC-3010-06R, Supra 21F1A,  Akira 29SG9AN  (TV);0,75;Є
+ 3412M; Supra BC-1202-1 (MIX), Akira, Hyundai, Grol  (TV)  Huayu  ! Huayu !;1,00;Є
+ 3412Mx; Supra BC-1202-1 (MIX), Akira, Hyundai, Grol  (TV);0,70;Є
+ 3414; Sitronics 50J1, Telefunken, LG 57L8, Sony 55L7  (TV)  Huayu  ! Huayu !;0,78;Є
+ 3416; Grol RS09-M333, Elekta CTV-1440  (TV)  Huayu  ! Huayu ! (=3409);0,75;МАЛО
+ 3417; Saturn 9381-157, Digital NT11106-111/123 (=3420, 2517);1,15;НЕМАЄ
+ 3420; Hyundai MB-105, Nexon, Nokasonic, Akai, Saturn  (TV)  Huayu  ! Huayu !;0,80;Є
+ 3421; China TV  Jinlipu 7461 (TV)  корпус 1342 SLEEP (sys 011C ) Huayu  ! Huayu !;0,80;Є
+ 3421A; China TV  Jinlipu 7461 (TV)  корпус 1342 SCAN (sys 013C )  Huayu  ! Huayu !;0,65;НЕМАЄ
+ 3423; Bravis LCD1501, Erisson 20ML01, Hyundai BT-0481C/ H-LCD1508  (LCD TV);0,80;Є
+ 3426; Bravis Black (LCD TV);0,75;Є
+ 3427; Bravis ZVT03, Shivaki, Erisson RC-15D, Weston  (TV)  Huayu  ! Huayu !;1,00;Є
+ 3434; China TV KLX-55K9H  (TV)  корпус Sharp;0,95;НЕМАЄ
+ 3436; Hyundai H-LCDVD2200,/1912/ 3200/ 3201/ 3212, Mystery, Supra LC2622WD Huayu ! Huayu !;1,70;Є
+ 3436A; Saturn LCD-322, Bravis LED-3268, LED-DH3230BH, Digital DLE-2715, Ergo, Hyundai, Honda  Huayu  ! Huayu !;1,70;Є
+ 3436Ax; Bravis LED-3268, LED-DH3230BH;1,50;МАЛО
+ 3437; Saturn LCD153/ LCD191/ LCD193/ LCD223, Hyundai H-LCD1510/ 24V1, Supra LC1922W (LED TV) Huayu ! Huayu !;1,60;Є
+ 3437A; Saturn LED-321, Bravis LC-19A40, Shivaki K78, Rolsen, Hyundai, Supra, Витязь K35/ K77, Polar ! Huayu !;1,30;Є
+ 3438; Bravis CRT141F/ CRT211F/CRT2121UF, Shivaki, Supra CTV-2128U (TV) Huayu  ! Huayu ! (=1641, 2944);0,85;Є
+ 3439; Bravis LCD1536/ LCD1532/ LCD1936/ LCD1536B/ LCD1932/ LCD2332C  (LCD TV) (=3440) P;1,30;МАЛО
+ 3440; Bravis RC-A3-01, Horizont, Shivaki RC-01  (LCD TV) (=3439);1,00;Є
+ 3442; Jinlipu P02L-N, Grol GR-2101 (TV);0,60;Є
+ 3445; China TV 9012 -090 корп LG 090D (TV)  Huayu  ! Huayu !;0,60;МАЛО
+ 3452; Bravis LCD1940/ 2640, Mystery MTV-1915WD (=3480) P;1,25;МАЛО
+ 3454; Bravis LCD3232/ 3262/ 3281, Shivaki LCD-4230S/ LCD2662, Elenberg LTV-2231, Supra STV-LC1995WL (LCD TV);1,95;НЕМАЄ
+ 3455; Bravis BR-55WH, CTV-2930, Polar RC-45, RC-6EG1-4BC  (TV);0,90;МАЛО
+ 3468; Bravis LED-EH4720BF/ LED-16E96B/ LED-LH2410BH, Supra LTV-32L40B  (LED TV) P;1,50;Є
+ 3469; Bravis LED-DB3200BH, LED-DB3230BH Saturn LED32A/LED24A, Honda LED324, Mystery MTV-3226LWI (LED TV);1,30;НЕМАЄ
+ 3473; TCL 06-520W37-T001X, Saturn LED 291, GoldStar RC200, Supra STV-LC16850WL (LCD) Huayu  ! Huayu ! (=3971);1,85;НЕМАЄ
+ 3477; Bravis LCC-2632  (LCD TV);0,90;Є
+ 3478; Bravis ZSJ-5104, Orion, Fusion (LED TV)  Huayu  ! Huayu !;1,60;Є
+ 3480; Hyundai H-LCD1516  (LCD/LED TV)  Huayu  ! Huayu ! (=3452);1,15;Є
+ 3482; Bravis 55D2000, LED-42D2050  (LED TV)  Huayu ! Huayu ! (=3496 на 80%);1,95;Є
+ 3485; Bravis RC01-V59  (LED TV) (=3491);1,35;Є
+ 3491; Bravis RC01-s512, Supra, Akai (LED TV)  Huayu ! Huayu !;1,15;Є
+ 3496; Bravis UHD-43G7000, ELED-65Q5000, UHD-40E6000 (=3482) ! Huayu !;1,93;Є
+ 3497; Bravis RC02-T338 (LED-19E1900-t2), Supra RC02-T338 (STV-LC32LT0060F);2,00;Є
+ 3498; Bravis LED-24/32/43G5000 Smart+T2 (PN);1,90;Є
+ 3499; Bravis LED-24/32/43D5000, CRUNHELM/ YDX-107/H-LED49F502BS2S ! Huayu ! (=3496 на 80%);2,00;Є
+;035 СОПУТСТВУЮЩИЕ ТОВАРЫ;;
+ 3501; Разное:  Термоусадочные пакеты пультов 5 шт (Китай);0,65;НЕМАЄ
+ 3502; Разное:  QD-JMY2005 Qunda Тестер проверки пультов, определения кодов  QD-JMY2005 Qunda;4,10;Є
+ 3503; Разное:  Рем.набор (кнопки+клей) к пультам в зеленом тюбике Польша;1,25;НЕМАЄ
+ 3504; Разное:  Рем.набор к пультам (кнопки 60 шт.) Польша;0,65;МАЛО
+ 3510; Разное:  Цветной КАТАЛОГ ПУЛЬТОВ (1 часть)  252 страницы;1,00;Є
+ 3511; Разное:  Цветной КАТАЛОГ ПУЛЬТОВ (2 часть)  90 страниц;1,00;Є
+ 3517; Разное:  Пакеты пультов  8 на 25 (см) 100 шт zip. замок;2,30;Є
+ 3518; Тюнер DVB-T2  Q-115 Plastik;9,80;Є
+ 3519; Тюнер DVB-T2  Q-149 Plus  Metal;11,00;Є
+;036 KIVI, HISENSE, LIBERTON, SKIYWORTH;;
+ 30112; KIVI RC37, Haier HTR-A18E  RM-L1313 ! Huayu ! Унив.,;1,75;Є
+ 30115; SKYWORTH RM-1058E  ! Huayu ! Унив., для SKYWORTH smart TV;1,45;Є
+ 3042; Hisense RM-L1365 ! Huayu ! Унив., для Hisense smart TV;1,95;Є
+ 3085; Hisense RM-L1335 plus ! Huayu ! унив.( LCD/LED TV);1,62;Є
+ 3097; Hisense RM-L1575 ! Huayu ! Унив., для Hisense smart TV;2,60;Є
+ 3098; SKYWORTH RM-L1592 ! Huayu ! Унив., для SKYWORTH smart TV;1,71;Є
+ 3601; Kivi RC14  32 HX10S 43 50 55 UX10S (LED TV) Huayu ! Huayu !;1,35;Є
+ 3603; Kivi 43UK30G/ JVC KT1157-HH  ! HUAYU !;2,20;Є
+ 3604; Kivi RC37, Haier HTR-A18E =30112;1,45;НЕМАЄ
+ 3605; Nomi 2300-EP0BNM ! Huayu ! (=3628, 3643);1,10;Є
+ 3607; SKYWORTH 32E3  YOUTUBE, Supra 32LE7020S(=3098, 3641) PN-B;2,00;Є
+ 3608; SKYWORTH 55G6  NETFLIX (LED TV)  (=3098, 3607) PNB;1,80;Є
+ 3613; Liberton 32HE1HD, 32HE1HDTA, 40CC1FHDT;1,40;Є
+ 3619; Liberton 43AS2UHDTA1.5, DEX LE22-4355 TS2, ERISSON AL52D-B;1,70;Є
+ 3620; Kivi RC79   40FB50BU ( =3622 );2,50;НЕМАЄ
+ 3621; Kivi RC80 IR Huayu  ! Huayu ! (=3603, 3629);2,38;Є
+ 3622; Kivi / Haier  RM-L1535  ! Huayu !;2,20;МАЛО
+ 3623; Hisense EN2B27 LCD TV (=3085, 3640) B;1,95;Є
+ 3624; Hisense EN2BB27H  Huayu LCD TV  ! HQ ! (=3085);1,35;НЕМАЄ
+ 3625; Hisense EN2BQ27H  Huayu LCD TV  ! Huayu ! (=3623, 3085);2,30;НЕМАЄ
+ 3628; Liberton  43AS1UHDTA /2400-EDROLIBR (=3605 );1,81;Є
+ 3629; Kivi U7 F7 series, JVC LT-55MU508 (A05F) (без голосового набора) !;2,20;Є
+ 3630; Hisense ERF2F60H   32B6700HA LCD TV Huayu  ! HQ !;1,65;НЕМАЄ
+ 3638; SKYWORTH 32E20AI SW-V1 с голосовым упрвлением (=3642 без голоса);8,00;Є
+ 3639; SKYWORTH 32E6 AI SW-V2 с голосовым упрвлением;8,00;НЕМАЄ
+ 3640; Hisense RM-L1665 ! Huayu ! унив.( LCD/LED TV);2,00;НЕМАЄ
+ 3642; SKYWORTH RM-L1659 ! Huayu ! Унив., для SKYWORTH smart TV NETFLIX+YOUTUBE;2,28;Є
+ 3643; Liberton 40AS1FHDT (=3628) PN-B;1,95;Є
+ 3646; Liberton 2400-EDROLIBR   B;1,95;Є
+ 3648; Hisense EN2G30H  LCD TV  (=3640);2,00;МАЛО
+;037 SATELITE, BLAUPUNKT, GAZER, COMER, Artel;;
+ 3714; Gazer TV32-FS2G;1,70;Є
+ 3715; SATELITE 24-32-40-55-H9000ST, COMER, AKAI  (LED TV) Huayu ! Huayu !;2,20;Є
+ 3718; SATELITE, AIWA 32H-55U-8000ST LCD TV (08F7) ! HQ !;1,50;МАЛО
+ 3719; SATELITE 32H9100ST (4040);2,50;Є
+ 3720; SATELITE 43F8000T LCD TV(40BF) ! HQ !;1,40;Є
+;038 ДЛЯ DVB-C  (кабельных ресиверов);;
+ 38155; DVB-C Воля ТВ Access DCD-3011, Homecast Huayu  ! Huayu !;0,80;Є
+ 3817; DVB-C Воля ТВ Kaon HR-A409, KSF-200ZM, Homecast HR-A409;0,85;Є
+ 3819; DVB-C Воля ТВ HOMECAST 2813, KAON 09-11, HI-VISION 3200  (SAT) ! HQ !;1,25;Є
+ 38217; DVB-C Trimax SC-350  HUAYU;0,85;Є
+ 38245; DVB-C Воля ТВ Access HD DCD7304  P;1,20;Є
+ 3826; DVB-C Воля ТВ Handan Huayu  ! Huayu !;0,70;МАЛО
+ 3846; DVB-C Воля ТВ Topfild 2/ TF64001RC/ K4502A/ SAT1/ TP009  Huayu  ! Huayu !;0,70;Є
+;038 ДЛЯ DVB-S  (спутниковых ресиверов);;
+ 3801; SAT Humax RS-101P  ! Huayu !;0,80;Є
+ 3802; SAT OpenBox X-520, X-100, X-600 FERGUSON RC-908  ! Huayu !;0,90;Є
+ 3806; SAT Dreambox DM-500S  ! Huayu !;0,95;МАЛО
+ 3808; SAT STRONG SRT-60XX / 61XX, STRONG 401  noc;0,55;МАЛО
+ 3809; SAT Globo 6000/ 8XX0, STAR TRACK 550D/ 750CU, CosmoSat 7100  (SAT)  Huayu  ! Huayu !;1,25;Є
+ 3810; SAT Skyon DSR-2300/ DSR-3150/ DSR-2800  (SAT)  Huayu  ! Huayu !;0,55;Є
+ 38100; SAT Sat-Integral S-1210/-1221/-1223/-1224/-1247 HD, WV S718 ! Huayu !;1,24;Є
+ 38106; SAT U2C Master/ S+Mini HD/ S+Maxi HD/ m2 Mini/ m2 Maxi/ Master Plus (SAT+T2);0,75;Є
+ 38108; SAT Globo X90,  X80 premium,  Orton GL8 premium E-RCU-016  (SAT) ! HQ !;1,25;Є
+ 3811; SAT Strong STR-4450, STR-4400  (SAT)  Huayu  ! Huayu !;1,30;МАЛО
+ 38114; SAT StarTrack SR-9090X  Huayu ( 02F9 ) ! Huayu !;0,60;Є
+ 38118; SAT Humax RM-E08, Humax VAHD-3100S НТВ+;0,55;МАЛО
+ 38121; SAT Strong STR-7710 Viasat  ! Huayu !;0,85;Є
+ 3813; SAT StarTrack 5500 Super Plus /SR55 Skyfly, Amiko SSD-550 CX, SSD-560 CX RF, Euromax  (SAT)  Huayu  ! Huayu !;0,95;НЕМАЄ
+ 38145; SAT OpenBox S4 HD, Skyway Light, Nano 2, GiS8580  (SAT)  Huayu  ! Huayu !;1,40;Є
+ 3815; SAT Strong 4125 Evolution;0,50;МАЛО
+ 38157; SAT Orton, Opticum HD X405P/ HD X406P;0,90;Є
+ 3816; SAT OpenBox X-800/ 820,  WINQEUST 3115, StarTrack 1150  (SAT);1,25;Є
+ 38160; SAT Tiger  X80HD/ X90HD/ X100HD/ 4050HD/ 4100HD, SkyPrime M5, Sat Way S101 Huayu  ! Huayu !;1,00;Є
+ 3818; SAT Golden Interstar, SkyFly, DSR-7700, DSR-7800, DSR-8001, DSR-8005 Huayu  ! Huayu !;1,00;Є
+ 38184; SAT WinQuest 670GS HD, 5555M, Simax T2 HDTR 882P5/ HDTR 871, ORTO HD 670L / 770G  P;1,15;Є
+ 38188; SAT Strong SRT7711 HD Viasat Huayu  ! Huayu !;0,55;Є
+ 38189; SAT Sat-Integral S-1225 /1227 /1228 /1237 /1247 /1248 /1218 /1311, Tiger X90, Satcom 4050, Jeferson X mini Holiday, Open SX1 ! Huayu !;0,99;Є
+ 3818x; SAT Golden Interstar, SkyFly, DSR-7700, DSR-7800, DSR-8001, DSR-8005 (=3884 по 0,5 у.е.);0,65;Є
+ 38190; SAT StarTrack 50X HD, 55X HD,  Alphabox X4 Micro;1,10;Є
+ 38193; SAT U2C A1ternativa HD/ CE/ LAN/ Combo T2+SAT /PRO Huayu  ! Huayu !;1,05;Є
+ 38194; SAT Eurosky ES-108 HD, ES-4050 HD, ES-4060 HD, SkyPrime M8, M9 Huayu  ! Huayu !;1,20;Є
+ 38194x; SAT Eurosky ES-108 HD, ES-4050 HD, ES-4060 HD;0,85;Є
+ 38195; SAT Sat-Integral S-1226, WinQuest / U2C /, Q-SAT ST-02/03/ 04, Jeferson X-100/ 103 Huayu  ! Huayu !;0,90;Є
+ 38196; SAT GI HD Slim (Galaxy Innovations Slim)   (sys 8E71) Huayu ! HQ !;1,20;Є
+ 38197; SAT Jeferson X-mini HD  Huayu ! Huayu !;1,00;Є
+ 3820; SAT Eurosky/ Eurosat DVB-8004, StarTrack ST15 Huayu  ! Huayu !;1,25;НЕМАЄ
+ 38210; SAT Satcom T-110/ T-120  ! Huayu !;0,80;Є
+ 38216; SAT EUROSKY 4080HD, ES-19, Q-SAT Q-44/Q-45, S2BOX 101, Star Track S2 mini/S2 maxi, Alphabox X4 Micro/ X4 SE ! Huayu !;1,15;Є
+ 38219; SAT Openbox AS1 HD, SX4 HD, SX6 HD HD/ HDBOX HB3500, HB4500 Huayu ! Huayu !;2,05;НЕМАЄ
+ 38221; SAT Tiger F1 HD, OpenFox X6 S2 Mini ! Huayu !;1,15;Є
+ 38228; SAT Orto Eco HD, Simax T2 871F2 Huayu  ! Huayu !;0,80;Є
+ 38229; SAT U2C Denys;1,30;Є
+ 38231; SAT uClan B6 Full HD (U2C B6) ! Huayu !;0,95;Є
+ 38233; SAT Q-SAT Q-07, Q-11 Huayu ! Huayu !;1,00;Є
+ 38237; SAT LORTON S2-33, S2-55, T2-18 MINI HD !Huayu!;0,80;НЕМАЄ
+ 38237x; SAT LORTON S2-33, S2-55, T2-18 MINI HD   B;1,10;Є
+ 38249; SAT Openbox S3 Micro HD Huayu  ! HQ !;1,25;НЕМАЄ
+ 3825; SAT Globo 7010А/ 8200/ 9100/ 9010, Orton 4100, WinQuest 7010  (SAT)  Huayu  ! Huayu ! белый;1,15;Є
+ 38256; SAT OpenFox X6 Metal Combo HD (DVB-S+T2)/X-6m HD/X-6m HD ! HQ !;1,15;Є
+ 38268; SAT УТБ Viasat Strong SRT7600/7601/7602, УТБ XTRATV Strong SRT7600 ! Huayu !;1,60;Є
+ 38273; SAT Sat-Integral SP-1219, 1229 HD Norma / DVB-T2 Sat-Integral 5052 T2  ! HQ !;1,07;Є
+ 38278; SAT УТБ Romsat S2 XtraTV, УТБ Romsat S2 Viasat, LYIM5515, ROMSAT SEHS-1723 Skardin Huayu ! Huayu !;1,35;Є
+ 3828; SAT CosmoSat 7400/ 7405/ 7410  (SAT);0,80;Є
+ 38288; SAT Q-SAT Q-110, Q-135;1,15;Є
+ 3829; SAT OpenBox X-730/ 750/ 770 CIPVR  (SAT) 7series;0,70;Є
+ 3830; SAT Smart SMT-01/ MX-04 Maximum TV  (SAT)  Huayu  ! Huayu !;0,75;Є
+ 3832; SAT WinQuest WQ-001UG/ GSR 1010 FTA/ DRC 5003   ! Huayu !;0,60;Є
+ 3834; SAT Evolution RC-700S  (SAT);0,90;Є
+ 3836; SAT Smart ENIGMA MX-05 /X5 CA Huayu  ! Huayu !;0,55;НЕМАЄ
+ 3837; SAT Globo KR-110/ 220CR, AURUM 8000/ 8500, Viasat   noc;0,70;МАЛО
+ 3838; SAT OpenBox F-500/ X-540  (SAT)  (код 08F6)  Huayu  ! Huayu !;0,90;Є
+ 3838x; SAT OpenBox F-500/ X-540  (SAT)  (код 08F6) не ориг.корпус;0,65;Є
+ 3843; SAT Sat-Integral TH-7300/ 7200, TechnoSAT;1,00;МАЛО
+ 3844; SAT Strong SRT-7700, Viasat   Huayu  ! Huayu !;0,60;Є
+ 3845; SAT Technosat TH-7002/ TH-7000/ TH-8002, Sat-Integral T-820/ T-840  (SAT);0,90;НЕМАЄ
+ 3847; SAT Tropfi TA1001T  (SAT);0,50;МАЛО
+ 3855; SAT Orton 4060CX/4160/4050, Gi S1015/16/25/26/27, 1115/16/25/26, 6126, Amiko SSD-549 CX, SSD-549 CX RF, SSD-549 FTA Huayu ! Huayu !;1,25;Є
+ 3860; SAT Opticum RC-7300L, Gi S2026/ S2126/ S2464, Amiko SSD-540 FTA, EVO TC-100/ SSD-570 CX PVR/ SSD-580 CX LAN PVR, EVO TC-100  (SAT);1,10;Є
+ 3866; SAT Eurosky DVB-4100/ 4050c, ES-4050 HD, ES-4060 HD Orton  (SAT)  Huayu  ! Huayu !;1,12;Є
+ 3872; SAT Orton HD X403HD, Galaxy Innovations (Gi) S2026/ S2126   ! Huayu !;0,70;Є
+ 3873; SAT Orton X80  Huayu  ! Huayu !;0,70;Є
+ 3874; SAT StarTrack SR-75x  (SAT);0,55;МАЛО
+ 3879; SAT Strong RC-6016/ SRT 6200/ SRT 6202/ SRT 6205;0,70;Є
+ 3880; SAT Tiger T600HD/ T6 CLASS HD;0,70;Є
+ 3882; SAT StarTrack SR-X1150CH/ SR-X1050;0,85;Є
+ 3883; SAT CosmoSat 7800/ 7810/ 7812 CPVR-HD  ! Huayu !;0,65;Є
+ 3884; SAT Golden Interstar XXREC, GI-S905-HD  (SAT) (=3818);0,50;МАЛО
+ 3885; SAT OpenBox S5 HD PVR, S6 Pro HD PVR, S4 HD PVR;1,00;Є
+ 3886; SAT Galaxy Innovations GI-S8120, GI-S8120 LITE, HOF11L161GPD12, Amiko SHD-8900 ALIEN  (SAT) (HQ);1,90;Є
+ 3889; SAT SkyGate Voodoo 8200 HD PVR/ FTA/ smart/ Net/ Violet Huayu  ! Huayu !;0,65;Є
+;038 ДЛЯ DVB-T2  (эфирных ресиверов);;
+ 38101; DVB-T2 Romsat RS-300 + обучение TV Huayu  ! Huayu !;1,45;Є
+ 38104; DVB-T2 BBK RC-SMP712;1,65;Є
+ 38122; T2 Gold Star GS8833, Tiger AIR, Tiger T2 iptv, Orton mini T2, Simax VA2103HD, Roks RKS-T201HD, Alphabox T11/12,/22,/23, OpenFox T2 mini ! Huayu !;1,05;Є
+ 38126; DVB-T2 OpenBox T2-02 HD/T2-04 IR Huayu  ! Huayu !;1,05;Є
+ 38136; DVB-T2 World Vision T34/ T34A/ T34i  P;1,05;Є
+ 38137; DVB-T2 Q-SAT Q120/Q130/Q133/Q148/Q168, Sat-Integral 5050 T2/ 5051 T2 air, OpenFox T2 mini IR, Locus LS120 HD/T2, Telant  Huayu  ! Huayu !;0,95;Є
+ 38138; DVB-T2 World Vision T43/ T40/ T53;1,05;НЕМАЄ
+ 38151; DVB-T2 EURO PLUS/T-707HD&HDI;1,15;Є
+ 38152; DVB-T2 World Vision T37/ T54M/ T57, Amiko T58/T54,  Hyundai H-DVB03T2, D-Color DC1201HD mini Huayu  ! Huayu !;0,90;Є
+ 38153; DVB-T2 Eurosky ES-11/3011/3015D/3021, Tiger Nova HD, Lorton ES-4090HDT2;1,05;Є
+ 38158; DVB-T2 World Vision T55/ T55D/ T35/ T60M ! Huayu !;1,05;НЕМАЄ
+ 38159; T2 World Vision T38/ T39/ T58, Strong SRT 8203,  Satcom T-210/T-310/ T-410, Ergo 121 (=38235);1,20;Є
+ 38162; DVB-T2 Romsat T2050/ T2050+/T2070/ T2090/ T2200/ T2900/ T2950HD/ T2300HD T2 mini, Ablee T2 mini  Huayu  ! Huayu !;1,05;Є
+ 38166; DVB-T2 Tiger T2, U2c T2/ U2c plus;1,10;МАЛО
+ 38172; DVB-T2 UClan T2 HD Internet Plus (U2C T2 Internet Plus);0,80;Є
+ 38173; DVB-T2 Strong SRT-8202;0,75;Є
+ 38174; DVB-T2 SkyPrime V/ SkyPrime H/Bravis STB-1108/ T2BOX 101/Elenberg DT1301/Rexant RX-511 ! Huayu !;1,10;Є
+ 38176; DVB-T2 OpenBox T2-05 HD Huayu  ! Huayu !;0,75;Є
+ 38177; DVB-T2 Gold Star GS8830 HD Huayu  ! Huayu !;1,05;Є
+ 38183; DVB-T2 World Vision T36/ T56/ T59/ T59D/ T126, Prowest P-301 Huayu;0,90;Є
+ 38192; DVB-T2 World Vision T2-С, T2/С Premium  Huayu  ! Huayu !;1,10;Є
+ 38198; DVB-T2 U2C T2 HD/ T2 HD Plus/ U2C T2 HD+IPTV+Internet/ uClan T2 HD SE Internet (TIMER) Huayu ! Huayu !;1,00;Є
+ 38199; DVB-T2 OpenFox T2 Mini  IR5v  DVB004 Huayu  ! Huayu !;1,35;МАЛО
+ 38200; T2 Trimax TR-2015 HD FTA PVR, Romsat TR-0017HD, TR-1017 HD, TR-2017 HD, T2950HD, T2300HD,TR-9000HD SIMAX HDTR F3 ! Huayu !;1,25;Є
+ 38214; DVB-T2 Strong T2 SRT 8204;1,00;Є
+ 38224; DVB-T2 Romsat T2 Ultra, Romsat T2020 Huayu !Huayu !;0,95;Є
+ 38225; DVB-T2 Prowest PW-2017, TCL DVB, Orbita, Alphabox, Opticum AJ DVB-T93+;1,00;Є
+ 38226; DVB-T2 Satcom T310, T320 =38280;0,80;НЕМАЄ
+ 38232; DVB-T2 World Wision T61M//T62D/T62N/T62M/T63/T65/T65M/T70/T129, Geotex GTX-35 Huayu  ! Huayu !;1,00;Є
+ 38234; DVB-T2 Pantesat 2258HD ! HQ !;1,05;Є
+ 38235; DVB-T2 Lorton T2-10/ T2-18,  S2-33 HD, Alma THD 2780, Mystery MMP-75DT2 (=38159, 38237);1,15;НЕМАЄ
+ 38239; DVB-T2 World Vision T62A, T129 SILVER LINE RCU универсальный Huayu  ! Huayu !;1,55;НЕМАЄ
+ 38244; DVB-T2 TIGER T2 IPTV, T2 BOX 250ID Huayu ! Huayu !;1,25;НЕМАЄ
+ 38250; DVB-T2 Romsat T8000HD, T8010HD, T8020HD, Lumax DVBT2-555HD, DV-4017HD, DV-3018HD, DV-2018HD ! Huayu ! Huayu;0,99;Є
+ 38252; DVB-T2 EUROSKY ES-18, ES-17, ES-14 Huayu;1,20;Є
+ 38257; DVB-T2 Q-SAT Q-125, Q-149, Q-150, LION Sat L01, LO3 Huayu  ! Huayu !;1,10;Є
+ 38257x; DVB-T2 Q-SAT Q-125, Q-149, Q-150, LION Sat L01, LO3;1,00;Є
+ 38258; DVB-T2 Satcom T500 / T505 Huayu ! Huayu ! (=38183 (80%));1,05;Є
+ 38259; DVB-T2 TCL DVB-777 T3 T5 T7, Орбита HD-911, Beko,  HDTV Digital Terrestrial Receiver (=38225);1,05;Є
+ 38260; DVB-T2 Romsat -9100HD, 9110HD;1,05;Є
+ 38261; DVB-T2 UcLan full hd metal ! Huayu !;1,20;Є
+ 38267; DVB-T2 Romsat T8005HD, T8030HD Romsat T2 mini IPTV, Tiger T2 IPTV Plus ! Huayu !;1,10;Є
+ 38269; DVB-T2 SUPERBOX T-4 Huayu ! Huayu !;0,90;Є
+ 38270; DVB-T2 Pantesat HD-3820 T2, HD2058 T2 , UKC  Huayu  ! Huayu !;0,95;Є
+ 38276; DVB-T2 T2BOX 334id  Huayu ! Huayu !;1,00;МАЛО
+ 38277; DVB-T2  WORLD VISION FOROS COMBO T2/S2  Huayu ! Huayu ! (=4002 (80%));1,20;Є
+ 38280; DVB-T2 Satcom T501 Huayu ! HQ !  (00FF);1,15;Є
+ 38281; DVB-T2 Q-BOX Concorde Combo ! HQ !;1,15;Є
+ 38283; DVB-T2 Eurosky ES-14 ! HQ ! (=38252);1,25;НЕМАЄ
+ 38284; DVB-T2 Eurosky ES-16 mini ! HQ !;1,25;НЕМАЄ
+ 38285; DVB-T2 STRONG SRT8209 ! Huayu !;1,10;Є
+ 38286; DVB-T2 T26 (=38137);1,30;НЕМАЄ
+ 3890; DVB-T2 Strong SRT-8502, Thomson THT702 Huayu  ! Huayu ! цифровое телевидеие;1,62;Є
+ 3893; DVB-T2 Strong SRT 8500/ SRT 8501 Huayu  ! Huayu !  цифровое телевидение;1,20;Є
+ 3894; DVB-T2 Trimax TR-2012HD, Lumax Y-133A2, Lumax DVT2-4100HD, OpenBox T2-01 HD, OpenBox T2-03 HD Huayu;1,07;Є
+ 4001; DVB-T2 OpenFox T2 mini Smart _UKC 7810 T2  Huayu  ! HQ ! 00BF;1,10;Є
+ 4002; DVB-T2/S2 Romsat Combo (STARTRACK)  Huayu  ! Huayu;1,15;НЕМАЄ
+ 4003; DVB-T2/S2 OpenFox X8 COMBO HD (00FF) ! HQ !;1,20;НЕМАЄ
+;039 SATURN-2, TCL, HAIER;;
+ 3005; Saturn, Philips RM-836C TCL, Elenberg ! Huayu ! Унив., кор. RC-1153038;1,15;Є
+ 30108; TCL RM-L1396 ! Huayu ! Унив.,;1,95;Є
+ 30111; TCL RM-L1508V  Унив.,  (LCD/LED TV) 3D (корп RC802N);2,10;Є
+ 3030; Saturn RM-L1153  Унив., (LCD TV) ( VP-003++) корпус CX-507;2,00;Є
+ 3056; GoldStar TC-97E ! Huayu ! Унив., кор. RC200;1,60;НЕМАЄ
+ 3083; TCL RM-L1330 ! Huayu ! Унив., (LCD/LED TV) (=39127);2,60;НЕМАЄ
+ 3901; Saturn FHS08A (26T1)/ ST-1422/ ST-2120, Akira, Erisson (TV);1,15;Є
+ 39104; TCL 06-520W37-B002X, Saturn LED 291  (=3056);1,50;НЕМАЄ
+ 39108; Saturn B-084-SB, Honda HD 150/ 194, Bravis  (LED TV)  Huayu  ! Huayu !;1,00;НЕМАЄ
+ 3911; Akira ABL-15  (TV);1,00;МАЛО
+ 39112; Saturn 32HD300U, Elenberg LD28N70W, ERGO (LED TV)  Huayu  ! Huayu !;1,85;Є
+ 39117; Saturn LED24FHD100U/ LED32HD400U (LED TV)  Huayu  ! Huayu !;1,75;Є
+ 39118; Saturn LED24HD300U, LED32HD500U, LED40FHD500U (=39123);1,65;НЕМАЄ
+ 39122; Saturn TV LED32HD900UST2/40FHD700U T2 (LED TV)  Huayu  ! Huayu !;1,50;Є
+ 39123; Saturn TV LED24HD300U, LED32HD500U, LED40FHD500U FAV+ (LED TV)  Huayu  ! Huayu ! (=39118);1,75;Є
+ 39126; Saturn LED29HD200U, Elenberg 32AH4110 (LED TV) ( заменяет 16112);1,40;Є
+ 39127; ARTEL /TCL H_HY-1330-1/Thomson RC310  LED (=3083)  ! Huayu !;3,30;НЕМАЄ
+ 3913; Sitronics RC-2129MS, Ergo, Avest  (TV);1,05;Є
+ 39130; Saturn 40FHD700U T2 (LED TV);1,50;Є
+ 39132; TCL RC802N, THOMSON RC802N (LED TV)  (=30111)   P;1,80;Є
+ 39134; Saturn LED55UHD500U4k LCD TV (08F7) ! HQ !;1,35;Є
+ 39136; Haier HTR-A27 HTR-U27E, BLAUPUNKT (HE-V1) з голосовим керуванням;12,05;НЕМАЄ
+ 39137; TCL RC802V FMR1 с голосовым управлением;6,00;Є
+ 39139; TCL RC901V FAR1 IR (інфрачервоний) =39141;2,40;Є
+ 3914; Saturn Hyundai HU-T2127, VIDIMAX VD29181TF, Schneider 29M311;0,95;Є
+ 39140; TCL RC901V FAR1  (Голос) =39141, 39139;7,50;Є
+ 3919; Saturn, TCL, Liberton RMB2X+SKAN, Alpari 29E12PF  (TV)  Huayu  ! Huayu !;1,25;Є
+ 3924A; Avest, Saturn RC-241, Nokasonic YKF-51N, Bravis RC01-02, West ES-21514C, CHINA ZY55L7 TV;0,55;Є
+ 3924F; Start 5W63,  Jinlipu, Trident, Orion SPP1419 корпус Funai  (TV)  Huayu  ! Huayu !;0,90;Є
+ 3924K; Jinlipu, Konka 5W63  (TV)  ! Huayu !;0,85;Є
+ 3928S; Saturn RMB1X, TCL, West, Thomson3  (TV)  Huayu  ! HQ ! (=3992);1,20;Є
+ 3928T; Saturn RC-035, TCL, Shivaki RС03S HTC026  (TV) (P);1,35;Є
+ 3928W; Saturn RMB1X+SURROUND , TCL, West, Thomson3  (TV)  Huayu  ! Huayu ! (=3992);1,35;Є
+ 3940; Akai RC-1153012, Saturn, TCL, Elenberg RC-1153038, Denki RC-1153014 (TV) (=3005);0,90;Є
+ 3950; Saturn ST21NF1, Akira 21LS9R, Erisson FHS085, Sitronics SB-1415 /SB-2139 (TV)  Huayu  ! Huayu !;1,40;Є
+ 3951; Haier HTR-039  (TV) !Huayu !;1,30;МАЛО
+ 3954; Saturn ST-1403, ST-2103, Hyundai H-TV1403, Polar KK-Y261Q  (TV)  Huayu  ! Huayu !;1,05;Є
+ 3959; Akira RM-577B ! Huayu ! Унив., (LCD TV) корп LG 090D;0,95;Є
+ 3970; Saturn TV370/ HX-T12, ST HX-P12  (TV) Huayu  ! Huayu !;0,85;Є
+ 3970x; Saturn TV370/ HX-T12, ST HX-P12  (TV);0,70;Є
+ 3971; TCL RM-L1018 ! Huayu ! Унив., кор. RC3000M11/ M13 (=3056);1,50;НЕМАЄ
+ 3980; Saturn /Polar 48LTV3101;1,10;МАЛО
+ 3992; TCL, Saturn TC-802E ! Huayu ! Унив.;1,30;Є
+ 3993; Saturn LED19C/ LED32C, Shivaki STV-32LED5, Hyundai H-LED15V20/ RS22-2  (LED TV);1,43;Є
+ 3994; Saturn AT025 ( LED TV)  Huayu  ! Huayu !;1,50;Є
+ 3999; Elenberg 7BJ9-1023, Saturn 8891-1021, Polar 8897, General29FS14, Cameron 7BJ9-1043, RS09-8891A;1,15;МАЛО
+;041 ДЛЯ  IPTV медиаприставок;;
+ 38180; IPTV MAG 255, Aura пульт с обучаемым блоком TV (IPTV приставка)  Huayu  ! Huayu !;1,95;Є
+ 38205; IPTV MAG 254 250 255 256 257 260 261 270 352,  Aura HD;1,33;Є
+ 38279; IPTV HD GI LUNN 216, (Tanix TX3 mini, Openbox A4 IPTV);1,70;НЕМАЄ
+ 4102; IPTV Ozone HD, SMART TV BOX mx pro Huayu ! Huayu !;1,15;Є
+ 4104; IPTV A96X/MXQ-S805 /INEXT 4K2, X96 / X96 ! Huayu !  P;1,25;Є
+ 4111; IPTV VIASAT TV-171 KYIVSTAR ( IPTV Amlogic S805 );1,55;НЕМАЄ
+ 4112; IPTV для серий  X96, T95, H96, T95, mx10, hk1, mx, tx6, tx3 ...android TV BOX (обучаємий);1,45;Є
+ 4113; IPTV Mx9 pro - Smart TV Box, H 96 max;1,45;Є
+ 4117; IPTV SMART TV BOX  X92 / X96MAX / X98 PRO ! Huayu ! (=4104, 4112) (01FE);1,35;Є
+ 4120; IPTV для серий  H96;1,80;Є
+;044 Батарейки;;
+ 4407; Батарейки R03-4 TESLER (ZINC Carbon) SIZE  AAA 4 штуки ( упаковка 60 шт.) качество оличное;0,10;НЕМАЄ
+ 4408; Батарейки R06-4 TESLER (ZINC Carbon) SIZE  AA 4 штуки ( упаковка 60 шт.) качество отличное;0,10;Є
+ 4409; Батарейки TESLER (alkaline)  AAA 4 штуки ( упаковка 48 шт.);0,20;Є
+ 4410; Батарейки TESLER (alkaline)  AAA 2 штуки блистер;0,20;Є
+ 4411; Батарейки TESLER (alkaline)  AA 4 штуки ( упаковка 48 шт).;0,20;Є
+ 4412; Батарейки TESLER (alkaline)  AA 2 штуки блистер;0,20;Є
+;049 Пульты указки (Air Mouse);;
+ 4908; Air Mouse Q9 SMART TV, STB, PC Air Mouse & Keyboard;7,70;Є
+ 4909; Air Mouse MX-3 ( Гироскоп+клавиатура)  SMART TV, STB, PC Air Mouse & Keyboard;7,00;Є
+ 4911; Air Mouse G20S голос+гироскоп)  2.4G Fidelity Voice Input;8,10;НЕМАЄ
+ 4912; Air Mouse G10S (голос+гироскоп)  2.4G Fidelity Voice Input;5,90;Є
+ 4913; Air Mouse G40S (голос+гироскоп)  2.4G Fidelity Voice Input;10,30;Є
+ 4916; Air Mouse G10BTS Bluetooth с голосовым управлением и инфракрасным пультом;8,65;Є
+ 4918; Air Mouse G20BTS Bluetooth с голосовым управлением и инфракрасным пультом;8,95;МАЛО
+ 4919; Air Mouse TL05 голос+гироскоп)  2.4G Fidelity Voice Input корпус KIVI RC20;10,00;Є
+;050 Антенны;;
+ 5017; Антенна внешняя T2 ENERGY 0,7м 10 эл.+8 (Алюминий);9,45;НЕМАЄ
+ 5026; Антенна DVB-T2  A-11 Алюм (5-9 дб) 0.56м;5,15;МАЛО
+;051 2270;;
+ 0513323; Realme RMV2003, RMV2004;1,20;НЕМАЄ
+;101 Разные / Шнуры, кабеля и т.д;;
+ 10003; Кабель  шт.HDMI-шт.HDMI  0.8м;0,85;НЕМАЄ
+ 10004; Кабель  шт.HDMI-шт.HDMI  1.0м;1,00;НЕМАЄ
+ 10005; Кабель  шт.HDMI-шт.HDMI  1.2м;1,20;НЕМАЄ
+ 10006; Cплиттер  на 2   5-2400 МНz  с проходом питания (VK11029H);1,20;НЕМАЄ
+ 10007; Cплиттер  на 3   5-2400 МНz  с проходом питания (VK11030);1,25;Є
+ 10008; Cплиттер  на 4   5-2400 МНz  с проходом питания (VK11031);1,35;НЕМАЄ
+ 10017; Переходник  штекер 'F'-гнездо TV (VK20112);0,16;МАЛО
+ 10027; Шнур шт. 3.5ст. - шт. 3.5ст. 2.5 м   білий   gold;0,85;НЕМАЄ
+;103 Блоки питания;;
+ 10301; Блок питания U=5 V I=2 А раз. 2,1 х 5,5 мм;2,10;НЕМАЄ
+ 10302; Блок питания U=5 V I=2 А раз. 2,5 х 5,5 мм x 9 мм;1,80;Є
+ 10303; Блок питания U=6 V I=1 А раз. 2,5 х 5,5 мм;2,10;НЕМАЄ
+ 10304; Блок питания U=6 V I=2 А раз. 2,5 х 5,5 мм;2,20;НЕМАЄ
+ 10305; Блок питания U=9 V I=1 А раз. 2,1 х 5,5 мм;1,80;НЕМАЄ
+ 10306; Блок питания U=9 V I=1 А раз. 2,5 х 5,5 мм;2,10;НЕМАЄ
+ 10307; Блок питания U=12 V I=1 А 1,2 м  раз. 2,5 х 5,5 мм штекер TR2012 T2;2,10;НЕМАЄ
+ 10308; Блок питания U=9 V I=2 А раз. 2,5 х 5,5 мм;2,35;НЕМАЄ
+ 10316; Блок питания U=5 V I=2 А раз. 1,7 х 4,0 мм;1,80;МАЛО
+ 10317; Блок питания U=6 V I=2 А раз. 1,7 х 4,0 мм;1,85;МАЛО
+ 10318; Блок питания U=9 V I=1 А раз. 1,7 х 4,0 мм;2,05;НЕМАЄ
+ 10319;" Блок питания U=9 V; I=2 А; раз. 1,7 х 4,0 мм";2,10;НЕМАЄ
+ 10320; Блок питания U=5 V I=3 А раз. 2,5 х 5,5 мм;2,80;НЕМАЄ
+ 10321; Блок питания U=6 V I=1 А раз. 1,7 х 4,0 мм;1,90;НЕМАЄ
+ 10322; Блок питания U=6 V I=1 А раз. 2,1 х 5,5 мм;1,95;МАЛО
+ 10324; Блок питания U=12 V I=1 А раз. 2,1 х 5,5 мм;2,10;НЕМАЄ
+ 10325; Блок питания U=12 V I=3A  1.2м  5.5*2.5 мм+ AC CABLE;4,55;НЕМАЄ
+ 10326; Блок питания U=12 V I=5 A  1.2м  5.5*2.5 мм+ AC CABLE;5,30;НЕМАЄ
+ 10327; Блок питания U=12 V I=10A  1.2м  5.5*2.5 мм+ AC CABLE;10,80;МАЛО
+ 10328; Блок питания U=5 V I=1 A  USB;1,75;НЕМАЄ
+ 10329; Блок питания U=3.3 V I=2 А раз. 1.7 х 4,0 мм;1,95;МАЛО
+ 10330; Блок питания U=9 V I=2 А раз. 2,5 х 5,5 мм;2,45;НЕМАЄ
+ 10331; Блок питания U=9 V I=2 А раз. 0.7 х 2,5 мм;2,45;НЕМАЄ
+ 10332; Блок питания U=9 V I=3 А раз. 1,35 х 3,5 мм;2,55;НЕМАЄ
+ 10333; Блок питания U=12 V I=2 А раз. 2,1 х 5,5 мм;2,55;НЕМАЄ
+ 10334; Блок питания U=12 V I=2 А раз. 5,5 х 2,5 мм;2,55;НЕМАЄ
+ 10335; Блок питания U=12 V I=2 А раз. 0,7 х 2,5 мм;2,45;НЕМАЄ
+ 10336; Блок питания U=12 V I=2,5 А раз. 2,5 х 5,5 мм;3,80;НЕМАЄ
+ 10337; Блок питания U=5 V I=1,5 А раз. 2,5 х 5,5 мм x 9mm;2,10;НЕМАЄ
+ 10338; Блок питания U=5 V I=2 А раз. 2,5 х 0,7 мм + FILT 1.2 М;2,00;НЕМАЄ
+ 10339; Блок питания U=5 V I=2 А раз. 1,35 х 3,5 мм + FILT 1.2 М;1,80;НЕМАЄ
+ 10340; Блок питания U=5 V I=3 А раз. 2,5 х 0,7 мм;2,40;НЕМАЄ
+ 10341; Блок питания U=5 V I=3 А раз. 1,35 х 3,35 мм;2,70;НЕМАЄ
+ 10342; Блок питания U=12 V I=2 А раз. 1,7 х 4,0 мм;2,40;НЕМАЄ
+ 10343;" Блок питания U=6 V; I=1 А; раз. 2,5 х 5,5 мм (без бренда)";1,75;НЕМАЄ
+ 10344; Блок питания U=9 V I=2 А раз. 1,7 х 4,0 мм (без бренда);2,15;НЕМАЄ
+ 10345; Блок питания U=12 V I=2 А раз. 2,5 х 5,5 мм ( без бренда );2,50;НЕМАЄ
+ 10400; Блок питания U=5 V I=2 А раз. 2,5 х 5,5 мм ( без бренда );1,80;НЕМАЄ
+ 10401; Блок питания U=5 V I=2 А раз. 2,1 х 5,5 мм ( без бренда );1,80;НЕМАЄ
+ 10402; Блок питания U=5 V I=2 А раз. 1,35 х 3,5 мм ( без бренда );1,65;НЕМАЄ
+ 10403; Блок питания U=9 V I=1 А раз. 2,5 х 5,5 мм ( без бренда );1,90;Є
+ 10404; Блок питания U=9 V I=2 А раз. 2,5 х 5,5 мм ( без бренда );2,30;НЕМАЄ
+ 10405; Блок питания U=9 V I=2 А раз. 2,1 х 5,5 мм ( без бренда );2,30;НЕМАЄ
+ 10406; Блок питания U=12 V I=1 А раз. 2,1 х 5,5 мм ( без бренда );2,50;НЕМАЄ
+ 10407; Блок питания U=12 V I=2 А раз. 2,1 х 5,5 мм ( без бренда );2,50;НЕМАЄ
+ 10408; Блок питания U=12 V I=2 А раз. 2,5 х 5,5 мм;2,50;Є
+ 10409; Блок питания U=6 V I=2 А раз. 2,1 х 5,5 мм;1,85;НЕМАЄ
+ 10410; Блок питания U=12 V I=1 А раз. 2,5 х 5,5 мм ( без бренда );1,90;Є
+ 10411; Блок питания U=6 V I=1 А раз. 2,1 х 5,5 мм ( без бренда );1,95;МАЛО
+ 10413; AC-DC: AC:90/264V,DC:12V5A60W,5 виходів,129x98x40mm PW-12-5;5,00;МАЛО
+ 10414; AC-DC: AC:90/264V,DC:12V10A120W,7 виходів,159x98x42mm PW-12-10;8,50;МАЛО
+ 10415; AC-DC: AC:90/264V,DC:12V2A24W,5 виходів,110x78x35mm PW-12-2;3,50;МАЛО
+;104 Распродажа / Прочее;;
+ 10401; Шнур сетевой 1,2 м (серый) 2 жильный;0,90;Є
+ 10402; СКВ TDC-3T-470 CATV-870 MHZ;0,70;Є
+ 24120; Тройник на 2 розетки под плоскую вилку и 1 розетку с заземлением.;0,50;Є
+;104 Распродажа / Пульты;;
+ 0818; JVC RM-C348  (TV)  Huayu  ! Huayu !;0,55;НЕМАЄ
+ 0820; JVC RM-C439  (TV)  Huayu  ! Huayu !;0,50;НЕМАЄ
+ 1039; Orion RC5691, TV2188MJ  (TV)  Huayu  ! Huayu !;0,55;МАЛО
+ 1214; Philips RC-7953  (TV)  Huayu  ! Huayu !  (=1215);0,50;Є
+ 1323; SAT Samsung MF59-00242A, DSB-S300V / DSB-S300F  (SAT)  Huayu  ! Huayu !;0,50;Є
+ 1609; Distar DR-MN6014W, DT2016, ORSON C-2086CK  (TV)  Huayu;0,60;Є
+ 1673; Supra RC03-52, VR, Alpari  (TV)  Huayu  ! Huayu !;0,85;Є
+ 17126; Sony RM-689 (TV/VTR/MDP);0,75;МАЛО
+ 2236; SUPER KR-02A, ERGO, VITEK, CHINA TV NK808U (CAR);0,50;Є
+ 2517; Start PP1  (TV)  Huayu  ! Huayu !;1,00;Є
+ 2563; Konka, Digital  (TV)  Huayu  ! Huayu !;0,67;Є
+ 2709; Унив. RM-909 ! Huayu ! China TV;0,70;Є
+ 2715; Унив. RM-3335 ! Huayu !  (SAT);0,30;Є
+ 2734; Унив. RM-B773 ! Huayu !  (SAT);0,60;Є
+ 2754; Унив. RM-3319 (DVD+TV+VCD) 3 in 1;0,55;МАЛО
+ 2757; Унив. RM-B599 ! Huayu !  (SAT);0,50;Є
+ 2763; Унив. RM-164N+ ! Huayu ! China TV;0,50;Є
+ 2788; iHandy DVB-181;1,10;МАЛО
+ 2795; Унив. RM-990N+   ! Huayu ! (LCD/LED TV);0,50;Є
+ 2904; RC-4 фосфор  (TV)  Huayu  ! Huayu !;0,50;МАЛО
+ 2911; RC-4 лодочка  (TV)  Huayu  ! Huayu !;0,55;МАЛО
+ 30150; OSKAR 20 D 1 оригинал;2,05;МАЛО
+ 3126;  ALPARI LH32S81D;1,00;МАЛО
+ 3404; Sitronics STV-2103, Akai TV Huayu  ! Huayu !;0,50;МАЛО
+ 3418А; Sitronics, Telefunken (м/с 7461) (TV)  Huayu  ! Huayu !;0,60;Є
+ 3435; Grol 1403/ 2103, Nash  (TV);0,50;Є
+ 3447; Elite 55K9R корпус Start P81 (CHINA TV);0,60;Є
+ 3456; Bravis BR-LCD370  (TV);0,65;Є
+ 3805; SAT Samsung MF59-00215A /9500-RC28E /9400  (SAT)  Huayu  ! Huayu !;0,50;МАЛО
+ 38109; SAT Amino TZ-RC43B-48  (SAT)  Huayu  ! Huayu !;0,60;МАЛО
+ 38110; Унив. RM-B350 ! Huayu ! (SAT);0,35;Є
+ 38111; Унив. RM-B929 ! Huayu ! (SAT);0,35;Є
+ 3818A; SAT Golden Interstar KOR-4619C, WJ8005 Huayu  ! Huayu !;0,50;МАЛО
+ 3824; SAT Tricolor 5000/ 7000/ 5001/ 7300 DRE (SAT)  Huayu  ! Huayu !;0,80;Є
+ 3856; SAT Smart MX 04-2  (SAT)  Huayu  ! Huayu !;0,50;Є
+ 3875; Унив. RM-B553 ! Huayu ! (SAT) инструкция на русском языке  HQ;0,85;Є
