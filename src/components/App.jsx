@@ -10,7 +10,7 @@ export const App = () => {
   useEffect(() => {
     const fetchProducts = async () => {
       const response = await axios.get('/api/products');
-      console.log('Response data:', response.data); // Добавьте эту строку для вывода данных в консоль
+
       setProducts(response.data);
     };
 

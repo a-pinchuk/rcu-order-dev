@@ -5,15 +5,15 @@ const cors = require('cors');
 const { v4: uuidv4 } = require('uuid');
 const csvParser = require('csv-parser');
 
-const PORT = process.env.PORT || 5000;
+// const PORT = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(express.json());
 
-app.get('/api/products', async (req, res) => {
+module.exports = async (req, res) => {
   const products = await parseCSV('public/products.csv');
   res.json(products);
-});
+};
 
 function parseCSV(filename) {
   return new Promise((resolve, reject) => {
@@ -43,6 +43,6 @@ function parseCSV(filename) {
   });
 }
 
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-});
+// app.listen(PORT, () => {
+//   console.log(`Server is running on port ${PORT}`);
+// });
